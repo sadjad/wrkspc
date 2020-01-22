@@ -1,0 +1,3810 @@
+e61e custom c
+e61d custom cpp
+e62e custom electron
+e62d custom elixir
+e62c custom elm
+e5ff custom folder
+e5fc custom folder config
+e5fb custom folder git
+e5fb custom folder git branch
+e5fd custom folder github
+e5fa custom folder npm
+e5fe custom folder open
+e626 custom go
+e629 custom msdos
+e62b custom vim
+e62a custom windows
+e70e dev android
+e753 dev angular
+e7ab dev appcelerator
+e711 dev apple
+e713 dev appstore
+e799 dev aptana
+e7ac dev asterisk
+e75b dev atlassian
+e764 dev atom
+e7ad dev aws
+e752 dev backbone
+e700 dev bing small
+e794 dev bintray
+e703 dev bitbucket
+e723 dev blackberry
+e747 dev bootstrap
+e74d dev bower
+e79d dev brackets
+e78d dev bugsense
+e76b dev celluloid
+e760 dev chart
+e743 dev chrome
+e765 dev cisco
+e768 dev clojure
+e76a dev clojure alt
+e79f dev cloud9
+e793 dev coda
+e796 dev code
+e7a3 dev code badge
+e780 dev codeigniter
+e716 dev codepen
+e72f dev codrops
+e751 dev coffeescript
+e761 dev compass
+e783 dev composer
+e789 dev creativecommons
+e78a dev creativecommons badge
+e749 dev css3
+e74a dev css3 full
+e701 dev css tricks
+e72a dev cssdeck
+e798 dev dart
+e706 dev database
+e77d dev debian
+e7ae dev digital ocean
+e71d dev django
+e7af dev dlang
+e7b0 dev docker
+e774 dev doctrine
+e71c dev dojo
+e77f dev dotnet
+e79c dev dreamweaver
+e707 dev dropbox
+e742 dev drupal
+e79e dev eclipse
+e71b dev ember
+e75d dev envato
+e7b1 dev erlang
+e78e dev extjs
+e787 dev firebase
+e745 dev firefox
+e7a7 dev fsharp
+e71f dev ghost
+e714 dev ghost small
+e702 dev git
+e725 dev git branch
+e729 dev git commit
+e728 dev git compare
+e727 dev git merge
+e726 dev git pull request
+e70a dev github
+e708 dev github alt
+e709 dev github badge
+e717 dev github full
+e779 dev gnu
+e724 dev go
+e7b2 dev google cloud platform
+e731 dev google drive
+e7b3 dev grails
+e775 dev groovy
+e74c dev grunt
+e763 dev gulp
+e71a dev hackernews
+e777 dev haskell
+e77b dev heroku
+e736 dev html5
+e735 dev html5 3d effects
+e734 dev html5 connectivity
+e733 dev html5 device access
+e732 dev html5 multimedia
+e744 dev ie
+e7b4 dev illustrator
+e7b5 dev intellij
+e7a9 dev ionic
+e738 dev java
+e74e dev javascript
+e781 dev javascript badge
+e74f dev javascript shield
+e70d dev jekyll small
+e767 dev jenkins
+e75c dev jira
+e741 dev joomla
+e750 dev jquery
+e754 dev jquery ui
+e792 dev komodo
+e785 dev krakenjs
+e784 dev krakenjs badge
+e73f dev laravel
+e758 dev less
+e712 dev linux
+e740 dev magento
+e79a dev mailchimp
+e73e dev markdown
+e7b6 dev materializecss
+e7a5 dev meteor
+e7a6 dev meteorfull
+e78b dev mitlicence
+e720 dev modernizr
+e7a4 dev mongodb
+e790 dev mootools
+e78f dev mootools badge
+e786 dev mozilla
+e77c dev msql server
+e704 dev mysql
+e766 dev nancy
+e79b dev netbeans
+e72e dev netmagazine
+e776 dev nginx
+e719 dev nodejs
+e718 dev nodejs small
+e71e dev npm
+e762 dev onedrive
+e7b7 dev openshift
+e771 dev opensource
+e746 dev opera
+e769 dev perl
+e730 dev phonegap
+e7b8 dev photoshop
+e73d dev php
+e76e dev postgresql
+e7a1 dev prolog
+e73c dev python
+e7b9 dev rackspace
+e75f dev raphael
+e722 dev rasberry pi
+e7ba dev react
+e7bb dev redhat
+e76d dev redis
+e770 dev requirejs
+e797 dev responsive
+e739 dev ruby
+e73b dev ruby on rails
+e791 dev ruby rough
+e7a8 dev rust
+e748 dev safari
+e74b dev sass
+e737 dev scala
+e7bc dev scriptcs
+e7a0 dev scrum
+e78c dev senchatouch
+e788 dev sizzlejs
+e72d dev smashing magazine
+e75e dev snap svg
+e7c4 dev sqllite
+e710 dev stackoverflow
+e705 dev streamline
+e759 dev stylus
+e7aa dev sublime
+e755 dev swift
+e756 dev symfony
+e757 dev symfony badge
+e72c dev techcrunch
+e795 dev terminal
+e7a2 dev terminal badge
+e77e dev travis
+e75a dev trello
+e772 dev typo3
+e73a dev ubuntu
+e773 dev uikit
+e721 dev unity small
+e7c5 dev vim
+e70c dev visualstudio
+e76c dev w3c
+e76f dev webplatform
+e70f dev windows
+e70b dev wordpress
+e715 dev yahoo
+e72b dev yahoo small
+e77a dev yeoman
+e782 dev yii
+e778 dev zend
+f26e fa 500px
+f2b9 fa address book
+f2ba fa address book o
+f2bb fa address card
+f2bc fa address card o
+f042 fa adjust
+f170 fa adn
+f037 fa align center
+f039 fa align justify
+f036 fa align left
+f038 fa align right
+f270 fa amazon
+f0f9 fa ambulance
+f2a3 fa american sign language interpreting
+f13d fa anchor
+f17b fa android
+f209 fa angellist
+f103 fa angle double down
+f100 fa angle double left
+f101 fa angle double right
+f102 fa angle double up
+f107 fa angle down
+f104 fa angle left
+f105 fa angle right
+f106 fa angle up
+f179 fa apple
+f187 fa archive
+f1fe fa area chart
+f0ab fa arrow circle down
+f0a8 fa arrow circle left
+f01a fa arrow circle o down
+f190 fa arrow circle o left
+f18e fa arrow circle o right
+f01b fa arrow circle o up
+f0a9 fa arrow circle right
+f0aa fa arrow circle up
+f063 fa arrow down
+f060 fa arrow left
+f061 fa arrow right
+f062 fa arrow up
+f047 fa arrows
+f0b2 fa arrows alt
+f07e fa arrows h
+f07d fa arrows v
+f2a3 fa asl interpreting
+f2a2 fa assistive listening systems
+f069 fa asterisk
+f1fa fa at
+f29e fa audio description
+f1b9 fa automobile
+f04a fa backward
+f24e fa balance scale
+f05e fa ban
+f2d5 fa bandcamp
+f19c fa bank
+f080 fa bar chart
+f080 fa bar chart o
+f02a fa barcode
+f0c9 fa bars
+f2cd fa bath
+f2cd fa bathtub
+f240 fa battery
+f244 fa battery 0
+f243 fa battery 1
+f242 fa battery 2
+f241 fa battery 3
+f240 fa battery 4
+f244 fa battery empty
+f240 fa battery full
+f242 fa battery half
+f243 fa battery quarter
+f241 fa battery three quarters
+f236 fa bed
+f0fc fa beer
+f1b4 fa behance
+f1b5 fa behance square
+f0f3 fa bell
+f0a2 fa bell o
+f1f6 fa bell slash
+f1f7 fa bell slash o
+f206 fa bicycle
+f1e5 fa binoculars
+f1fd fa birthday cake
+f171 fa bitbucket
+f172 fa bitbucket square
+f15a fa bitcoin
+f27e fa black tie
+f29d fa blind
+f293 fa bluetooth
+f294 fa bluetooth b
+f032 fa bold
+f0e7 fa bolt
+f1e2 fa bomb
+f02d fa book
+f02e fa bookmark
+f097 fa bookmark o
+f2a1 fa braille
+f0b1 fa briefcase
+f15a fa btc
+f188 fa bug
+f1ad fa building
+f0f7 fa building o
+f0a1 fa bullhorn
+f140 fa bullseye
+f207 fa bus
+f20d fa buysellads
+f1ba fa cab
+f1ec fa calculator
+f073 fa calendar
+f274 fa calendar check o
+f272 fa calendar minus o
+f133 fa calendar o
+f271 fa calendar plus o
+f273 fa calendar times o
+f030 fa camera
+f083 fa camera retro
+f1b9 fa car
+f0d7 fa caret down
+f0d9 fa caret left
+f0da fa caret right
+f150 fa caret square o down
+f191 fa caret square o left
+f152 fa caret square o right
+f151 fa caret square o up
+f0d8 fa caret up
+f218 fa cart arrow down
+f217 fa cart plus
+f20a fa cc
+f1f3 fa cc amex
+f24c fa cc diners club
+f1f2 fa cc discover
+f24b fa cc jcb
+f1f1 fa cc mastercard
+f1f4 fa cc paypal
+f1f5 fa cc stripe
+f1f0 fa cc visa
+f0a3 fa certificate
+f0c1 fa chain
+f127 fa chain broken
+f00c fa check
+f058 fa check circle
+f05d fa check circle o
+f14a fa check square
+f046 fa check square o
+f13a fa chevron circle down
+f137 fa chevron circle left
+f138 fa chevron circle right
+f139 fa chevron circle up
+f078 fa chevron down
+f053 fa chevron left
+f054 fa chevron right
+f077 fa chevron up
+f1ae fa child
+f268 fa chrome
+f111 fa circle
+f10c fa circle o
+f1ce fa circle o notch
+f1db fa circle thin
+f0ea fa clipboard
+f017 fa clock o
+f24d fa clone
+f00d fa close
+f0c2 fa cloud
+f0ed fa cloud download
+f0ee fa cloud upload
+f157 fa cny
+f121 fa code
+f126 fa code fork
+f1cb fa codepen
+f284 fa codiepie
+f0f4 fa coffee
+f013 fa cog
+f085 fa cogs
+f0db fa columns
+f075 fa comment
+f0e5 fa comment o
+f27a fa commenting
+f27b fa commenting o
+f086 fa comments
+f0e6 fa comments o
+f14e fa compass
+f066 fa compress
+f20e fa connectdevelop
+f26d fa contao
+f0c5 fa copy
+f1f9 fa copyright
+f25e fa creative commons
+f09d fa credit card
+f283 fa credit card alt
+f125 fa crop
+f05b fa crosshairs
+f13c fa css3
+f1b2 fa cube
+f1b3 fa cubes
+f0c4 fa cut
+f0f5 fa cutlery
+f0e4 fa dashboard
+f210 fa dashcube
+f1c0 fa database
+f2a4 fa deaf
+f2a4 fa deafness
+f03b fa dedent
+f1a5 fa delicious
+f108 fa desktop
+f1bd fa deviantart
+f219 fa diamond
+f1a6 fa digg
+f155 fa dollar
+f192 fa dot circle o
+f019 fa download
+f17d fa dribbble
+f2c2 fa drivers license
+f2c3 fa drivers license o
+f16b fa dropbox
+f1a9 fa drupal
+f282 fa edge
+f044 fa edit
+f2da fa eercast
+f052 fa eject
+f141 fa ellipsis h
+f142 fa ellipsis v
+f1d1 fa empire
+f0e0 fa envelope
+f003 fa envelope o
+f2b6 fa envelope open
+f2b7 fa envelope open o
+f199 fa envelope square
+f299 fa envira
+f12d fa eraser
+f2d7 fa etsy
+f153 fa eur
+f153 fa euro
+f0ec fa exchange
+f12a fa exclamation
+f06a fa exclamation circle
+f071 fa exclamation triangle
+f065 fa expand
+f23e fa expeditedssl
+f08e fa external link
+f14c fa external link square
+f06e fa eye
+f070 fa eye slash
+f1fb fa eyedropper
+f2b4 fa fa
+f09a fa facebook
+f09a fa facebook f
+f230 fa facebook official
+f082 fa facebook square
+f049 fa fast backward
+f050 fa fast forward
+f1ac fa fax
+f09e fa feed
+f182 fa female
+f0fb fa fighter jet
+f15b fa file
+f1c6 fa file archive o
+f1c7 fa file audio o
+f1c9 fa file code o
+f1c3 fa file excel o
+f1c5 fa file image o
+f1c8 fa file movie o
+f016 fa file o
+f1c1 fa file pdf o
+f1c5 fa file photo o
+f1c5 fa file picture o
+f1c4 fa file powerpoint o
+f1c7 fa file sound o
+f15c fa file text
+f0f6 fa file text o
+f1c8 fa file video o
+f1c2 fa file word o
+f1c6 fa file zip o
+f0c5 fa files o
+f008 fa film
+f0b0 fa filter
+f06d fa fire
+f134 fa fire extinguisher
+f269 fa firefox
+f2b0 fa first order
+f024 fa flag
+f11e fa flag checkered
+f11d fa flag o
+f0e7 fa flash
+f0c3 fa flask
+f16e fa flickr
+f0c7 fa floppy o
+f07b fa folder
+f114 fa folder o
+f07c fa folder open
+f115 fa folder open o
+f031 fa font
+f2b4 fa font awesome
+f280 fa fonticons
+f286 fa fort awesome
+f211 fa forumbee
+f04e fa forward
+f180 fa foursquare
+f2c5 fa free code camp
+f119 fa frown o
+f1e3 fa futbol o
+f11b fa gamepad
+f0e3 fa gavel
+f154 fa gbp
+f1d1 fa ge
+f013 fa gear
+f085 fa gears
+f22d fa genderless
+f265 fa get pocket
+f260 fa gg
+f261 fa gg circle
+f06b fa gift
+f1d3 fa git
+f1d2 fa git square
+f09b fa github
+f113 fa github alt
+f092 fa github square
+f296 fa gitlab
+f184 fa gittip
+f000 fa glass
+f2a5 fa glide
+f2a6 fa glide g
+f0ac fa globe
+f1a0 fa google
+f0d5 fa google plus
+f2b3 fa google plus circle
+f2b3 fa google plus official
+f0d4 fa google plus square
+f1ee fa google wallet
+f19d fa graduation cap
+f184 fa gratipay
+f2d6 fa grav
+f0c0 fa group
+f0fd fa h square
+f1d4 fa hacker news
+f255 fa hand grab o
+f258 fa hand lizard o
+f0a7 fa hand o down
+f0a5 fa hand o left
+f0a4 fa hand o right
+f0a6 fa hand o up
+f256 fa hand paper o
+f25b fa hand peace o
+f25a fa hand pointer o
+f255 fa hand rock o
+f257 fa hand scissors o
+f259 fa hand spock o
+f256 fa hand stop o
+f2b5 fa handshake o
+f2a4 fa hard of hearing
+f292 fa hashtag
+f0a0 fa hdd o
+f1dc fa header
+f025 fa headphones
+f004 fa heart
+f08a fa heart o
+f21e fa heartbeat
+f1da fa history
+f015 fa home
+f0f8 fa hospital o
+f236 fa hotel
+f254 fa hourglass
+f251 fa hourglass 1
+f252 fa hourglass 2
+f253 fa hourglass 3
+f253 fa hourglass end
+f252 fa hourglass half
+f250 fa hourglass o
+f251 fa hourglass start
+f27c fa houzz
+f13b fa html5
+f246 fa i cursor
+f2c1 fa id badge
+f2c2 fa id card
+f2c3 fa id card o
+f20b fa ils
+f03e fa image
+f2d8 fa imdb
+f01c fa inbox
+f03c fa indent
+f275 fa industry
+f129 fa info
+f05a fa info circle
+f156 fa inr
+f16d fa instagram
+f19c fa institution
+f26b fa internet explorer
+f224 fa intersex
+f208 fa ioxhost
+f033 fa italic
+f1aa fa joomla
+f157 fa jpy
+f1cc fa jsfiddle
+f084 fa key
+f11c fa keyboard o
+f159 fa krw
+f1ab fa language
+f109 fa laptop
+f202 fa lastfm
+f203 fa lastfm square
+f06c fa leaf
+f212 fa leanpub
+f0e3 fa legal
+f094 fa lemon o
+f149 fa level down
+f148 fa level up
+f1cd fa life bouy
+f1cd fa life buoy
+f1cd fa life ring
+f1cd fa life saver
+f0eb fa lightbulb o
+f201 fa line chart
+f0c1 fa link
+f0e1 fa linkedin
+f08c fa linkedin square
+f2b8 fa linode
+f17c fa linux
+f03a fa list
+f022 fa list alt
+f0cb fa list ol
+f0ca fa list ul
+f124 fa location arrow
+f023 fa lock
+f175 fa long arrow down
+f177 fa long arrow left
+f178 fa long arrow right
+f176 fa long arrow up
+f2a8 fa low vision
+f0d0 fa magic
+f076 fa magnet
+f064 fa mail forward
+f112 fa mail reply
+f122 fa mail reply all
+f183 fa male
+f279 fa map
+f041 fa map marker
+f278 fa map o
+f276 fa map pin
+f277 fa map signs
+f222 fa mars
+f227 fa mars double
+f229 fa mars stroke
+f22b fa mars stroke h
+f22a fa mars stroke v
+f136 fa maxcdn
+f20c fa meanpath
+f23a fa medium
+f0fa fa medkit
+f2e0 fa meetup
+f11a fa meh o
+f223 fa mercury
+f2db fa microchip
+f130 fa microphone
+f131 fa microphone slash
+f068 fa minus
+f056 fa minus circle
+f146 fa minus square
+f147 fa minus square o
+f289 fa mixcloud
+f10b fa mobile
+f10b fa mobile phone
+f285 fa modx
+f0d6 fa money
+f186 fa moon o
+f19d fa mortar board
+f21c fa motorcycle
+f245 fa mouse pointer
+f001 fa music
+f0c9 fa navicon
+f22c fa neuter
+f1ea fa newspaper o
+f247 fa object group
+f248 fa object ungroup
+f263 fa odnoklassniki
+f264 fa odnoklassniki square
+f23d fa opencart
+f19b fa openid
+f26a fa opera
+f23c fa optin monster
+f03b fa outdent
+f18c fa pagelines
+f1fc fa paint brush
+f1d8 fa paper plane
+f1d9 fa paper plane o
+f0c6 fa paperclip
+f1dd fa paragraph
+f0ea fa paste
+f04c fa pause
+f28b fa pause circle
+f28c fa pause circle o
+f1b0 fa paw
+f1ed fa paypal
+f040 fa pencil
+f14b fa pencil square
+f044 fa pencil square o
+f295 fa percent
+f095 fa phone
+f098 fa phone square
+f03e fa photo
+f03e fa picture o
+f200 fa pie chart
+f2ae fa pied piper
+f1a8 fa pied piper alt
+f1a7 fa pied piper pp
+f0d2 fa pinterest
+f231 fa pinterest p
+f0d3 fa pinterest square
+f072 fa plane
+f04b fa play
+f144 fa play circle
+f01d fa play circle o
+f1e6 fa plug
+f067 fa plus
+f055 fa plus circle
+f0fe fa plus square
+f196 fa plus square o
+f2ce fa podcast
+f011 fa power off
+f02f fa print
+f288 fa product hunt
+f12e fa puzzle piece
+f1d6 fa qq
+f029 fa qrcode
+f128 fa question
+f059 fa question circle
+f29c fa question circle o
+f2c4 fa quora
+f10d fa quote left
+f10e fa quote right
+f1d0 fa ra
+f074 fa random
+f2d9 fa ravelry
+f1d0 fa rebel
+f1b8 fa recycle
+f1a1 fa reddit
+f281 fa reddit alien
+f1a2 fa reddit square
+f021 fa refresh
+f25d fa registered
+f00d fa remove
+f18b fa renren
+f0c9 fa reorder
+f01e fa repeat
+f112 fa reply
+f122 fa reply all
+f1d0 fa resistance
+f079 fa retweet
+f157 fa rmb
+f018 fa road
+f135 fa rocket
+f0e2 fa rotate left
+f01e fa rotate right
+f158 fa rouble
+f09e fa rss
+f143 fa rss square
+f158 fa rub
+f158 fa ruble
+f156 fa rupee
+f2cd fa s15
+f267 fa safari
+f0c7 fa save
+f0c4 fa scissors
+f28a fa scribd
+f002 fa search
+f010 fa search minus
+f00e fa search plus
+f213 fa sellsy
+f1d8 fa send
+f1d9 fa send o
+f233 fa server
+f064 fa share
+f1e0 fa share alt
+f1e1 fa share alt square
+f14d fa share square
+f045 fa share square o
+f20b fa shekel
+f20b fa sheqel
+f132 fa shield
+f21a fa ship
+f214 fa shirtsinbulk
+f290 fa shopping bag
+f291 fa shopping basket
+f07a fa shopping cart
+f2cc fa shower
+f090 fa sign in
+f2a7 fa sign language
+f08b fa sign out
+f012 fa signal
+f2a7 fa signing
+f215 fa simplybuilt
+f0e8 fa sitemap
+f216 fa skyatlas
+f17e fa skype
+f198 fa slack
+f1de fa sliders
+f1e7 fa slideshare
+f118 fa smile o
+f2ab fa snapchat
+f2ac fa snapchat ghost
+f2ad fa snapchat square
+f2dc fa snowflake o
+f1e3 fa soccer ball o
+f0dc fa sort
+f15d fa sort alpha asc
+f15e fa sort alpha desc
+f160 fa sort amount asc
+f161 fa sort amount desc
+f0de fa sort asc
+f0dd fa sort desc
+f0dd fa sort down
+f162 fa sort numeric asc
+f163 fa sort numeric desc
+f0de fa sort up
+f1be fa soundcloud
+f197 fa space shuttle
+f110 fa spinner
+f1b1 fa spoon
+f1bc fa spotify
+f0c8 fa square
+f096 fa square o
+f18d fa stack exchange
+f16c fa stack overflow
+f005 fa star
+f089 fa star half
+f123 fa star half empty
+f123 fa star half full
+f123 fa star half o
+f006 fa star o
+f1b6 fa steam
+f1b7 fa steam square
+f048 fa step backward
+f051 fa step forward
+f0f1 fa stethoscope
+f249 fa sticky note
+f24a fa sticky note o
+f04d fa stop
+f28d fa stop circle
+f28e fa stop circle o
+f21d fa street view
+f0cc fa strikethrough
+f1a4 fa stumbleupon
+f1a3 fa stumbleupon circle
+f12c fa subscript
+f239 fa subway
+f0f2 fa suitcase
+f185 fa sun o
+f2dd fa superpowers
+f12b fa superscript
+f1cd fa support
+f0ce fa table
+f10a fa tablet
+f0e4 fa tachometer
+f02b fa tag
+f02c fa tags
+f0ae fa tasks
+f1ba fa taxi
+f2c6 fa telegram
+f26c fa television
+f1d5 fa tencent weibo
+f120 fa terminal
+f034 fa text height
+f035 fa text width
+f00a fa th
+f009 fa th large
+f00b fa th list
+f2b2 fa themeisle
+f2c7 fa thermometer
+f2cb fa thermometer 0
+f2ca fa thermometer 1
+f2c9 fa thermometer 2
+f2c8 fa thermometer 3
+f2c7 fa thermometer 4
+f2cb fa thermometer empty
+f2c7 fa thermometer full
+f2c9 fa thermometer half
+f2ca fa thermometer quarter
+f2c8 fa thermometer three quarters
+f08d fa thumb tack
+f165 fa thumbs down
+f088 fa thumbs o down
+f087 fa thumbs o up
+f164 fa thumbs up
+f145 fa ticket
+f00d fa times
+f057 fa times circle
+f05c fa times circle o
+f2d3 fa times rectangle
+f2d4 fa times rectangle o
+f043 fa tint
+f150 fa toggle down
+f191 fa toggle left
+f204 fa toggle off
+f205 fa toggle on
+f152 fa toggle right
+f151 fa toggle up
+f25c fa trademark
+f238 fa train
+f224 fa transgender
+f225 fa transgender alt
+f1f8 fa trash
+f014 fa trash o
+f1bb fa tree
+f181 fa trello
+f262 fa tripadvisor
+f091 fa trophy
+f0d1 fa truck
+f195 fa try
+f1e4 fa tty
+f173 fa tumblr
+f174 fa tumblr square
+f195 fa turkish lira
+f26c fa tv
+f1e8 fa twitch
+f099 fa twitter
+f081 fa twitter square
+f0e9 fa umbrella
+f0cd fa underline
+f0e2 fa undo
+f29a fa universal access
+f19c fa university
+f127 fa unlink
+f09c fa unlock
+f13e fa unlock alt
+f0dc fa unsorted
+f093 fa upload
+f287 fa usb
+f155 fa usd
+f007 fa user
+f2bd fa user circle
+f2be fa user circle o
+f0f0 fa user md
+f2c0 fa user o
+f234 fa user plus
+f21b fa user secret
+f235 fa user times
+f0c0 fa users
+f2bb fa vcard
+f2bc fa vcard o
+f221 fa venus
+f226 fa venus double
+f228 fa venus mars
+f237 fa viacoin
+f2a9 fa viadeo
+f2aa fa viadeo square
+f03d fa video camera
+f27d fa vimeo
+f194 fa vimeo square
+f1ca fa vine
+f189 fa vk
+f2a0 fa volume control phone
+f027 fa volume down
+f026 fa volume off
+f028 fa volume up
+f071 fa warning
+f1d7 fa wechat
+f18a fa weibo
+f1d7 fa weixin
+f232 fa whatsapp
+f193 fa wheelchair
+f29b fa wheelchair alt
+f1eb fa wifi
+f266 fa wikipedia w
+f2d3 fa window close
+f2d4 fa window close o
+f2d0 fa window maximize
+f2d1 fa window minimize
+f2d2 fa window restore
+f17a fa windows
+f159 fa won
+f19a fa wordpress
+f297 fa wpbeginner
+f2de fa wpexplorer
+f298 fa wpforms
+f0ad fa wrench
+f168 fa xing
+f169 fa xing square
+f23b fa y combinator
+f1d4 fa y combinator square
+f19e fa yahoo
+f23b fa yc
+f1d4 fa yc square
+f1e9 fa yelp
+f157 fa yen
+f2b1 fa yoast
+f167 fa youtube
+f16a fa youtube play
+f166 fa youtube square
+e29e fae apple fruit
+e27f fae atom
+e280 fae bacteria
+e281 fae banana
+e282 fae bath
+e283 fae bed
+e284 fae benzene
+e285 fae bigger
+e286 fae biohazard
+e287 fae blogger circle
+e288 fae blogger square
+e289 fae bones
+e28a fae book open
+e28b fae book open o
+e28c fae brain
+e28d fae bread
+e28e fae butterfly
+e28f fae carot
+e290 fae cc by
+e291 fae cc cc
+e292 fae cc nc
+e293 fae cc nc eu
+e294 fae cc nc jp
+e295 fae cc nd
+e296 fae cc remix
+e297 fae cc sa
+e298 fae cc share
+e299 fae cc zero
+e29a fae checklist o
+e29b fae cherry
+e29c fae chess bishop
+e25f fae chess horse
+e260 fae chess king
+e261 fae chess pawn
+e262 fae chess queen
+e263 fae chess tower
+e264 fae cheese
+e29f fae chicken thigh
+e265 fae chilli
+e266 fae chip
+e267 fae cicling
+e268 fae cloud
+e269 fae cockroach
+e26a fae coffe beans
+e26b fae coins
+e26c fae comb
+e26d fae comet
+e26e fae crown
+e26f fae cup coffe
+e270 fae dice
+e271 fae disco
+e272 fae dna
+e273 fae donut
+e274 fae dress
+e275 fae drop
+e276 fae ello
+e277 fae envelope open
+e278 fae envelope open o
+e279 fae equal
+e27a fae equal bigger
+e27b fae feedly
+e27c fae file export
+e27d fae file import
+e23f fae fingerprint
+e240 fae floppy
+e241 fae footprint
+e242 fae freecodecamp
+e243 fae galaxy
+e244 fae galery
+e2a0 fae gift card
+e245 fae glass
+e246 fae google drive
+e247 fae google play
+e248 fae gps
+e249 fae grav
+e24a fae guitar
+e24b fae gut
+e24c fae halter
+e24d fae hamburger
+e24e fae hat
+e24f fae hexagon
+e250 fae high heel
+e251 fae hotdog
+e252 fae ice cream
+e253 fae id card
+e254 fae imdb
+e255 fae infinity
+e2a1 fae injection
+e2a2 fae isle
+e256 fae java
+e257 fae layers
+e258 fae lips
+e259 fae lipstick
+e25a fae liver
+e2a3 fae lollipop
+e2a4 fae loyalty card
+e25b fae lung
+e25c fae makeup brushes
+e25d fae maximize
+e2a5 fae meat
+e221 fae medicine
+e222 fae microscope
+e223 fae milk bottle
+e224 fae minimize
+e225 fae molecule
+e226 fae moon cloud
+e2a6 fae mountains
+e227 fae mushroom
+e228 fae mustache
+e229 fae mysql
+e22a fae nintendo
+e2a7 fae orange
+e22b fae palette color
+e2a8 fae peach
+e2a9 fae pear
+e22c fae pi
+e22d fae pizza
+e22e fae planet
+e22f fae plant
+e230 fae playstation
+e231 fae poison
+e232 fae popcorn
+e233 fae popsicle
+e234 fae pulse
+e235 fae python
+e236 fae quora circle
+e237 fae quora square
+e238 fae radioactive
+e239 fae raining
+e23a fae real heart
+e23b fae refrigerator
+e23c fae restore
+e23d fae ring
+e23e fae ruby
+e21e fae ruby o
+e21f fae ruler
+e218 fae shirt
+e216 fae slash
+e200 fae smaller
+e201 fae snowing
+e202 fae soda
+e203 fae sofa
+e204 fae soup
+e205 fae spermatozoon
+e206 fae spin double
+e207 fae stomach
+e208 fae storm
+e21d fae sun cloud
+e21a fae sushi
+e219 fae tacos
+e217 fae telegram
+e215 fae telegram circle
+e209 fae telescope
+e20a fae thermometer
+e20b fae thermometer high
+e20c fae thermometer low
+e20d fae thin close
+e20e fae toilet
+e20f fae tools
+e210 fae tooth
+e21c fae tree
+e21b fae triangle ruler
+e220 fae umbrella
+e211 fae uterus
+e214 fae virus
+e212 fae w3c
+e213 fae walking
+e25e fae wallet
+e27e fae wind
+e29d fae xbox
+23fb iec power
+2b58 iec power off
+23fd iec power on
+23fe iec sleep mode
+23fc iec toggle power
+e621 indent dotted guide
+e621 indent line
+e621 indentation line
+f300 linux alpine
+f301 linux aosc
+f302 linux apple
+f303 linux archlinux
+f304 linux centos
+f305 linux coreos
+f306 linux debian
+f307 linux devuan
+f308 linux docker
+f309 linux elementary
+f30a linux fedora
+f30b linux fedora inverse
+f30c linux freebsd
+f30d linux gentoo
+f30e linux linuxmint
+f30f linux linuxmint inverse
+f310 linux mageia
+f311 linux mandriva
+f312 linux manjaro
+f313 linux nixos
+f314 linux opensuse
+f315 linux raspberry pi
+f316 linux redhat
+f317 linux sabayon
+f318 linux slackware
+f319 linux slackware inverse
+f31a linux tux
+f31b linux ubuntu
+f31c linux ubuntu inverse
+f501 mdi access point
+f502 mdi access point network
+f503 mdi account
+f504 mdi account alert
+f505 mdi account box
+f506 mdi account box outline
+fad1 mdi account card details
+f507 mdi account check
+f508 mdi account circle
+f509 mdi account convert
+fbba mdi account edit
+f50a mdi account key
+f50b mdi account location
+f50c mdi account minus
+f50d mdi account multiple
+fad2 mdi account multiple minus
+f50e mdi account multiple outline
+f50f mdi account multiple plus
+fcfe mdi account multiple plus outline
+f510 mdi account network
+f511 mdi account off
+f512 mdi account outline
+f513 mdi account plus
+fcff mdi account plus outline
+f514 mdi account remove
+f515 mdi account search
+fb2f mdi account settings
+fb30 mdi account settings variant
+f516 mdi account star
+f518 mdi account switch
+f519 mdi adjust
+f51a mdi air conditioner
+f51b mdi airballoon
+f51c mdi airplane
+fad3 mdi airplane landing
+f51d mdi airplane off
+fad4 mdi airplane takeoff
+f51e mdi airplay
+f51f mdi alarm
+fc8c mdi alarm bell
+f520 mdi alarm check
+fc8d mdi alarm light
+f521 mdi alarm multiple
+f522 mdi alarm off
+f523 mdi alarm plus
+fb8c mdi alarm snooze
+f524 mdi album
+f525 mdi alert
+f526 mdi alert box
+f527 mdi alert circle
+fad5 mdi alert circle outline
+fbbb mdi alert decagram
+f528 mdi alert octagon
+fc65 mdi alert octagram
+f529 mdi alert outline
+fbbc mdi all inclusive
+fd00 mdi allo
+f52a mdi alpha
+f52b mdi alphabetical
+fad6 mdi altimeter
+f52c mdi amazon
+f52d mdi amazon clouddrive
+f52e mdi ambulance
+f52f mdi amplifier
+f530 mdi anchor
+f531 mdi android
+f532 mdi android debug bridge
+fc8e mdi android head
+f533 mdi android studio
+fbb0 mdi angular
+fbbd mdi angularjs
+fad7 mdi animation
+f534 mdi apple
+f535 mdi apple finder
+f536 mdi apple ios
+fb31 mdi apple keyboard caps
+fb32 mdi apple keyboard command
+fb33 mdi apple keyboard control
+fb34 mdi apple keyboard option
+fb35 mdi apple keyboard shift
+f537 mdi apple mobileme
+f538 mdi apple safari
+fb13 mdi application
+fc8f mdi approval
+f53a mdi apps
+f53b mdi archive
+f53c mdi arrange bring forward
+f53d mdi arrange bring to front
+f53e mdi arrange send backward
+f53f mdi arrange send to back
+f540 mdi arrow all
+f541 mdi arrow bottom left
+f542 mdi arrow bottom right
+fb14 mdi arrow collapse
+f543 mdi arrow collapse all
+fc90 mdi arrow collapse down
+fc91 mdi arrow collapse left
+fc92 mdi arrow collapse right
+fc93 mdi arrow collapse up
+f544 mdi arrow down
+fc2c mdi arrow down bold
+fc2d mdi arrow down bold box
+fc2e mdi arrow down bold box outline
+f546 mdi arrow down bold circle
+f547 mdi arrow down bold circle outline
+f548 mdi arrow down bold hexagon outline
+fbbe mdi arrow down box
+f549 mdi arrow down drop circle
+f54a mdi arrow down drop circle outline
+f545 mdi arrow down thick
+fb15 mdi arrow expand
+f54b mdi arrow expand all
+fc94 mdi arrow expand down
+fc95 mdi arrow expand left
+fc96 mdi arrow expand right
+fc97 mdi arrow expand up
+f54c mdi arrow left
+fc2f mdi arrow left bold
+fc30 mdi arrow left bold box
+fc31 mdi arrow left bold box outline
+f54e mdi arrow left bold circle
+f54f mdi arrow left bold circle outline
+f550 mdi arrow left bold hexagon outline
+fbbf mdi arrow left box
+f551 mdi arrow left drop circle
+f552 mdi arrow left drop circle outline
+f54d mdi arrow left thick
+f553 mdi arrow right
+fc32 mdi arrow right bold
+fc33 mdi arrow right bold box
+fc34 mdi arrow right bold box outline
+f555 mdi arrow right bold circle
+f556 mdi arrow right bold circle outline
+f557 mdi arrow right bold hexagon outline
+fbc0 mdi arrow right box
+f558 mdi arrow right drop circle
+f559 mdi arrow right drop circle outline
+f554 mdi arrow right thick
+f55a mdi arrow top left
+f55b mdi arrow top right
+f55c mdi arrow up
+fc35 mdi arrow up bold
+fc36 mdi arrow up bold box
+fc37 mdi arrow up bold box outline
+f55e mdi arrow up bold circle
+f55f mdi arrow up bold circle outline
+f560 mdi arrow up bold hexagon outline
+fbc1 mdi arrow up box
+f561 mdi arrow up drop circle
+f562 mdi arrow up drop circle outline
+f55d mdi arrow up thick
+fd01 mdi artist
+f563 mdi assistant
+fbc2 mdi asterisk
+f564 mdi at
+fd02 mdi atlassian
+fc66 mdi atom
+f565 mdi attachment
+f566 mdi audiobook
+f567 mdi auto fix
+f568 mdi auto upload
+f569 mdi autorenew
+f56a mdi av timer
+fd03 mdi azure
+f56b mdi baby
+fb8d mdi baby buggy
+f56c mdi backburger
+f56d mdi backspace
+f56e mdi backup restore
+fb73 mdi bandcamp
+f56f mdi bank
+f570 mdi barcode
+f571 mdi barcode scan
+f572 mdi barley
+f573 mdi barrel
+f574 mdi basecamp
+f575 mdi basket
+f576 mdi basket fill
+f577 mdi basket unfill
+fd04 mdi basketball
+f578 mdi battery
+f579 mdi battery 10
+f57a mdi battery 20
+f57b mdi battery 30
+f57c mdi battery 40
+f57d mdi battery 50
+f57e mdi battery 60
+f57f mdi battery 70
+f580 mdi battery 80
+f581 mdi battery 90
+f582 mdi battery alert
+f583 mdi battery charging
+f584 mdi battery charging 100
+f585 mdi battery charging 20
+f586 mdi battery charging 30
+f587 mdi battery charging 40
+f588 mdi battery charging 60
+f589 mdi battery charging 80
+f58a mdi battery charging 90
+fd05 mdi battery charging wireless
+fd06 mdi battery charging wireless 10
+fd07 mdi battery charging wireless 20
+fd08 mdi battery charging wireless 30
+fd09 mdi battery charging wireless 40
+fd0a mdi battery charging wireless 50
+fd0b mdi battery charging wireless 60
+fd0c mdi battery charging wireless 70
+fd0d mdi battery charging wireless 80
+fd0e mdi battery charging wireless 90
+fd0f mdi battery charging wireless alert
+fd10 mdi battery charging wireless outline
+f58b mdi battery minus
+f58c mdi battery negative
+f58d mdi battery outline
+f58e mdi battery plus
+f58f mdi battery positive
+f590 mdi battery unknown
+f591 mdi beach
+fb8e mdi beaker
+f596 mdi beats
+f597 mdi beer
+f598 mdi behance
+f599 mdi bell
+f59a mdi bell off
+f59b mdi bell outline
+f59c mdi bell plus
+f59d mdi bell ring
+f59e mdi bell ring outline
+f59f mdi bell sleep
+f5a0 mdi beta
+f5a1 mdi bible
+f5a2 mdi bike
+f5a3 mdi bing
+f5a4 mdi binoculars
+f5a5 mdi bio
+f5a6 mdi biohazard
+f5a7 mdi bitbucket
+fd11 mdi bitcoin
+f5a8 mdi black mesa
+f5a9 mdi blackberry
+f5aa mdi blender
+f5ab mdi blinds
+f5ac mdi block helper
+f5ad mdi blogger
+f5ae mdi bluetooth
+f5af mdi bluetooth audio
+f5b0 mdi bluetooth connect
+f5b1 mdi bluetooth off
+f5b2 mdi bluetooth settings
+f5b3 mdi bluetooth transfer
+f5b4 mdi blur
+f5b5 mdi blur linear
+f5b6 mdi blur off
+f5b7 mdi blur radial
+fb8f mdi bomb
+fbc3 mdi bomb off
+f5b8 mdi bone
+f5b9 mdi book
+fad8 mdi book minus
+f5ba mdi book multiple
+f5bb mdi book multiple variant
+f5bc mdi book open
+fad9 mdi book open page variant
+f5bd mdi book open variant
+fada mdi book plus
+fc98 mdi book secure
+fc99 mdi book unsecure
+f5be mdi book variant
+f5bf mdi bookmark
+f5c0 mdi bookmark check
+f5c1 mdi bookmark music
+f5c2 mdi bookmark outline
+f5c4 mdi bookmark plus
+f5c3 mdi bookmark plus outline
+f5c5 mdi bookmark remove
+fadb mdi boombox
+fbc4 mdi bootstrap
+f5c6 mdi border all
+f5c7 mdi border bottom
+f5c8 mdi border color
+f5c9 mdi border horizontal
+f5ca mdi border inside
+f5cb mdi border left
+f5cc mdi border none
+f5cd mdi border outside
+f5ce mdi border right
+f5cf mdi border style
+f5d0 mdi border top
+f5d1 mdi border vertical
+fb76 mdi bow tie
+fb16 mdi bowl
+f5d2 mdi bowling
+f5d3 mdi box
+f5d4 mdi box cutter
+fb36 mdi box shadow
+fb17 mdi bridge
+f5d5 mdi briefcase
+f5d6 mdi briefcase check
+f5d7 mdi briefcase download
+fd12 mdi briefcase outline
+f5d8 mdi briefcase upload
+f5d9 mdi brightness 1
+f5da mdi brightness 2
+f5db mdi brightness 3
+f5dc mdi brightness 4
+f5dd mdi brightness 5
+f5de mdi brightness 6
+f5df mdi brightness 7
+f5e0 mdi brightness auto
+f5e1 mdi broom
+f5e2 mdi brush
+fb18 mdi buffer
+f5e3 mdi bug
+f5e4 mdi bulletin board
+f5e5 mdi bullhorn
+fadc mdi bullseye
+f5e6 mdi bus
+fc9a mdi bus articulated end
+fc9b mdi bus articulated front
+fc9c mdi bus double decker
+fc9d mdi bus school
+fc9e mdi bus side
+f5e7 mdi cached
+f5e8 mdi cake
+f5e9 mdi cake layered
+f5ea mdi cake variant
+f5eb mdi calculator
+f5ec mdi calendar
+f5ed mdi calendar blank
+f5ee mdi calendar check
+f5ef mdi calendar clock
+f5f0 mdi calendar multiple
+f5f1 mdi calendar multiple check
+f5f2 mdi calendar plus
+fb90 mdi calendar question
+fb77 mdi calendar range
+f5f3 mdi calendar remove
+f5f4 mdi calendar text
+f5f5 mdi calendar today
+f5f6 mdi call made
+f5f7 mdi call merge
+f5f8 mdi call missed
+f5f9 mdi call received
+f5fa mdi call split
+f5fb mdi camcorder
+f5fc mdi camcorder box
+f5fd mdi camcorder box off
+f5fe mdi camcorder off
+f5ff mdi camera
+fb91 mdi camera burst
+f600 mdi camera enhance
+f601 mdi camera front
+f602 mdi camera front variant
+fc9f mdi camera gopro
+f603 mdi camera iris
+fca0 mdi camera metering center
+fca1 mdi camera metering matrix
+fca2 mdi camera metering partial
+fca3 mdi camera metering spot
+fade mdi camera off
+f604 mdi camera party mode
+f605 mdi camera rear
+f606 mdi camera rear variant
+f607 mdi camera switch
+f608 mdi camera timer
+fc38 mdi cancel
+fae1 mdi candle
+f609 mdi candycane
+fca4 mdi cannabis
+f60a mdi car
+f60b mdi car battery
+f60c mdi car connected
+fca5 mdi car convertible
+fca6 mdi car estate
+fca7 mdi car hatchback
+fca8 mdi car pickup
+fca9 mdi car side
+fcaa mdi car sports
+f60d mdi car wash
+fcab mdi caravan
+fb37 mdi cards
+fb38 mdi cards outline
+fb39 mdi cards playing outline
+fbc5 mdi cards variant
+f60e mdi carrot
+f60f mdi cart
+fb6a mdi cart off
+f610 mdi cart outline
+f611 mdi cart plus
+f612 mdi case sensitive alt
+f613 mdi cash
+f614 mdi cash 100
+f615 mdi cash multiple
+f616 mdi cash usd
+f617 mdi cast
+f618 mdi cast connected
+fc88 mdi cast off
+f619 mdi castle
+f61a mdi cat
+fcac mdi cctv
+fc67 mdi ceiling light
+f61b mdi cellphone
+f61c mdi cellphone android
+f61d mdi cellphone basic
+f61e mdi cellphone dock
+f61f mdi cellphone iphone
+f620 mdi cellphone link
+f621 mdi cellphone link off
+f622 mdi cellphone settings
+fd13 mdi cellphone wireless
+f623 mdi certificate
+f624 mdi chair school
+f625 mdi chart arc
+f626 mdi chart areaspline
+f627 mdi chart bar
+fc68 mdi chart bar stacked
+fae2 mdi chart bubble
+fcad mdi chart donut
+fcae mdi chart donut variant
+fb6b mdi chart gantt
+f628 mdi chart histogram
+f629 mdi chart line
+fc69 mdi chart line stacked
+fcaf mdi chart line variant
+f62a mdi chart pie
+fb6c mdi chart scatterplot hexbin
+fb6d mdi chart timeline
+f62b mdi check
+f62c mdi check all
+fadf mdi check circle
+fae0 mdi check circle outline
+f62d mdi checkbox blank
+f62e mdi checkbox blank circle
+f62f mdi checkbox blank circle outline
+f630 mdi checkbox blank outline
+f631 mdi checkbox marked
+f632 mdi checkbox marked circle
+f633 mdi checkbox marked circle outline
+f634 mdi checkbox marked outline
+f635 mdi checkbox multiple blank
+fb3a mdi checkbox multiple blank circle
+fb3b mdi checkbox multiple blank circle outline
+f636 mdi checkbox multiple blank outline
+f637 mdi checkbox multiple marked
+fb3c mdi checkbox multiple marked circle
+fb3d mdi checkbox multiple marked circle outline
+f638 mdi checkbox multiple marked outline
+f639 mdi checkerboard
+f63a mdi chemical weapon
+f63b mdi chevron double down
+f63c mdi chevron double left
+f63d mdi chevron double right
+f63e mdi chevron double up
+f63f mdi chevron down
+f640 mdi chevron left
+f641 mdi chevron right
+f642 mdi chevron up
+fcb0 mdi chili hot
+fcb1 mdi chili medium
+fcb2 mdi chili mild
+fb19 mdi chip
+f643 mdi church
+fc63 mdi circle
+fc64 mdi circle outline
+f644 mdi cisco webex
+f645 mdi city
+f646 mdi clipboard
+f647 mdi clipboard account
+f648 mdi clipboard alert
+f649 mdi clipboard arrow down
+f64a mdi clipboard arrow left
+f64b mdi clipboard check
+fbc6 mdi clipboard flow
+f64c mdi clipboard outline
+fc4f mdi clipboard plus
+f64d mdi clipboard text
+f64e mdi clippy
+f64f mdi clock
+facd mdi clock alert
+f650 mdi clock end
+f651 mdi clock fast
+f652 mdi clock in
+f653 mdi clock out
+f654 mdi clock start
+f655 mdi close
+f656 mdi close box
+f657 mdi close box outline
+f658 mdi close circle
+f659 mdi close circle outline
+f65a mdi close network
+f65b mdi close octagon
+f65c mdi close octagon outline
+fbc7 mdi close outline
+f65d mdi closed caption
+f65e mdi cloud
+fcb3 mdi cloud braces
+f65f mdi cloud check
+f660 mdi cloud circle
+f661 mdi cloud download
+f663 mdi cloud off outline
+f662 mdi cloud outline
+f664 mdi cloud print
+f665 mdi cloud print outline
+fb3e mdi cloud sync
+fcb4 mdi cloud tags
+f666 mdi cloud upload
+fd14 mdi clover
+f667 mdi code array
+f668 mdi code braces
+f669 mdi code brackets
+f66a mdi code equal
+f66b mdi code greater than
+f66c mdi code greater than or equal
+f66d mdi code less than
+f66e mdi code less than or equal
+f66f mdi code not equal
+f670 mdi code not equal variant
+f671 mdi code parentheses
+f672 mdi code string
+f673 mdi code tags
+fb92 mdi code tags check
+f674 mdi codepen
+f675 mdi coffee
+fbc8 mdi coffee outline
+f676 mdi coffee to go
+f677 mdi coin
+fb93 mdi coins
+fb3f mdi collage
+f678 mdi color helper
+f679 mdi comment
+f67a mdi comment account
+f67b mdi comment account outline
+f67c mdi comment alert
+f67d mdi comment alert outline
+f67e mdi comment check
+f67f mdi comment check outline
+f680 mdi comment multiple outline
+f681 mdi comment outline
+f682 mdi comment plus outline
+f683 mdi comment processing
+f684 mdi comment processing outline
+fd15 mdi comment question
+f685 mdi comment question outline
+fadd mdi comment remove
+f686 mdi comment remove outline
+f687 mdi comment text
+f688 mdi comment text outline
+f689 mdi compare
+f68a mdi compass
+f68b mdi compass outline
+f68c mdi console
+fcb5 mdi console line
+f68d mdi contact mail
+fbc9 mdi contacts
+f68e mdi content copy
+f68f mdi content cut
+f690 mdi content duplicate
+f691 mdi content paste
+f692 mdi content save
+f693 mdi content save all
+fd16 mdi content save outline
+fb1a mdi content save settings
+f694 mdi contrast
+f695 mdi contrast box
+f696 mdi contrast circle
+f697 mdi cookie
+fae5 mdi copyright
+fcb6 mdi corn
+f698 mdi counter
+f699 mdi cow
+f6c8 mdi creation
+f69a mdi credit card
+f69b mdi credit card multiple
+fae3 mdi credit card off
+fb74 mdi credit card plus
+f69c mdi credit card scan
+f69d mdi crop
+f69e mdi crop free
+f69f mdi crop landscape
+f6a0 mdi crop portrait
+fb94 mdi crop rotate
+f6a1 mdi crop square
+f6a2 mdi crosshairs
+f6a3 mdi crosshairs gps
+f6a4 mdi crown
+f6a5 mdi cube
+f6a6 mdi cube outline
+f6a7 mdi cube send
+f6a8 mdi cube unfolded
+f6a9 mdi cup
+fae4 mdi cup off
+f6aa mdi cup water
+f6ab mdi currency btc
+fcb7 mdi currency chf
+fcb8 mdi currency cny
+fcb9 mdi currency eth
+f6ac mdi currency eur
+f6ad mdi currency gbp
+f6ae mdi currency inr
+fcba mdi currency jpy
+fcbb mdi currency krw
+f6af mdi currency ngn
+f6b0 mdi currency rub
+fcbc mdi currency sign
+f6b1 mdi currency try
+fcbd mdi currency twd
+f6b2 mdi currency usd
+fb78 mdi currency usd off
+f6b3 mdi cursor default
+f6b4 mdi cursor default outline
+f6b5 mdi cursor move
+f6b6 mdi cursor pointer
+fae6 mdi cursor text
+f6b7 mdi database
+f6b8 mdi database minus
+f6b9 mdi database plus
+f6ba mdi debug step into
+f6bb mdi debug step out
+f6bc mdi debug step over
+fc6a mdi decagram
+fc6b mdi decagram outline
+f6bd mdi decimal decrease
+f6be mdi decimal increase
+f6bf mdi delete
+fb81 mdi delete circle
+fbca mdi delete empty
+fae7 mdi delete forever
+fd17 mdi delete restore
+fae8 mdi delete sweep
+f6c0 mdi delete variant
+f6c1 mdi delta
+f6c2 mdi deskphone
+fcbe mdi desktop classic
+f6c3 mdi desktop mac
+f6c4 mdi desktop tower
+f6c5 mdi details
+fb95 mdi developer board
+f6c6 mdi deviantart
+fb1b mdi dialpad
+f6c7 mdi diamond
+f6c9 mdi dice 1
+f6ca mdi dice 2
+f6cb mdi dice 3
+f6cc mdi dice 4
+f6cd mdi dice 5
+f6ce mdi dice 6
+fc6d mdi dice d10
+fae9 mdi dice d20
+faea mdi dice d4
+faeb mdi dice d6
+faec mdi dice d8
+fc6c mdi dice multiple
+fb1c mdi dictionary
+fcbf mdi dip switch
+f6cf mdi directions
+fb40 mdi directions fork
+fb6e mdi discord
+faed mdi disk
+f6d0 mdi disk alert
+f6d1 mdi disqus
+f6d2 mdi disqus outline
+f6d3 mdi division
+f6d4 mdi division box
+fb82 mdi dna
+f6d5 mdi dns
+fb96 mdi do not disturb
+fb97 mdi do not disturb off
+fbb1 mdi dolby
+f6d6 mdi domain
+fcc0 mdi donkey
+fd18 mdi door
+fd19 mdi door closed
+fd1a mdi door open
+f6d7 mdi dots horizontal
+fcc1 mdi dots horizontal circle
+f6d8 mdi dots vertical
+fcc2 mdi dots vertical circle
+fb98 mdi douban
+f6d9 mdi download
+fbf2 mdi download network
+f6da mdi drag
+f6db mdi drag horizontal
+f6dc mdi drag vertical
+f6dd mdi drawing
+f6de mdi drawing box
+f6df mdi dribbble
+f6e0 mdi dribbble box
+f6e1 mdi drone
+f6e2 mdi dropbox
+f6e3 mdi drupal
+f6e4 mdi duck
+f6e5 mdi dumbbell
+fcc3 mdi ear hearing
+f6e6 mdi earth
+fbcb mdi earth box
+fbcc mdi earth box off
+f6e7 mdi earth off
+f6e8 mdi edge
+f6e9 mdi eject
+fcc4 mdi elephant
+f6ea mdi elevation decline
+f6eb mdi elevation rise
+f6ec mdi elevator
+f6ed mdi email
+fbcd mdi email alert
+f6ee mdi email open
+faee mdi email open outline
+f6ef mdi email outline
+f6f0 mdi email secure
+faef mdi email variant
+fbb2 mdi emby
+f6f1 mdi emoticon
+f6f2 mdi emoticon cool
+fb99 mdi emoticon dead
+f6f3 mdi emoticon devil
+fb9a mdi emoticon excited
+f6f4 mdi emoticon happy
+f6f5 mdi emoticon neutral
+f6f6 mdi emoticon poop
+f6f7 mdi emoticon sad
+f6f8 mdi emoticon tongue
+f6f9 mdi engine
+f6fa mdi engine outline
+f6fb mdi equal
+f6fc mdi equal box
+f6fd mdi eraser
+fb41 mdi eraser variant
+f6fe mdi escalator
+f6ff mdi ethernet
+f700 mdi ethernet cable
+f701 mdi ethernet cable off
+f702 mdi etsy
+faf0 mdi ev station
+fcc5 mdi eventbrite
+f703 mdi evernote
+f704 mdi exclamation
+f705 mdi exit to app
+f706 mdi export
+f707 mdi eye
+f708 mdi eye off
+fbcf mdi eye off outline
+fbce mdi eye outline
+f709 mdi eyedropper
+f70a mdi eyedropper variant
+fb42 mdi face
+fb43 mdi face profile
+f70b mdi facebook
+f70c mdi facebook box
+f70d mdi facebook messenger
+f70e mdi factory
+f70f mdi fan
+fd1b mdi fan off
+f710 mdi fast forward
+fbd0 mdi fast forward outline
+f711 mdi fax
+fbd1 mdi feather
+f712 mdi ferry
+f713 mdi file
+fc39 mdi file account
+f714 mdi file chart
+f715 mdi file check
+f716 mdi file cloud
+f717 mdi file delimited
+f718 mdi file document
+f719 mdi file document box
+f71a mdi file excel
+f71b mdi file excel box
+f71c mdi file export
+f71d mdi file find
+fb12 mdi file hidden
+f71e mdi file image
+f71f mdi file import
+f720 mdi file lock
+f721 mdi file multiple
+f722 mdi file music
+f723 mdi file outline
+f724 mdi file pdf
+f725 mdi file pdf box
+fd1c mdi file percent
+fc50 mdi file plus
+f726 mdi file powerpoint
+f727 mdi file powerpoint box
+f728 mdi file presentation box
+fb6f mdi file restore
+f729 mdi file send
+fb44 mdi file tree
+f72a mdi file video
+f72b mdi file word
+f72c mdi file word box
+f72d mdi file xml
+f72e mdi film
+f72f mdi filmstrip
+f730 mdi filmstrip off
+f731 mdi filter
+f732 mdi filter outline
+f733 mdi filter remove
+f734 mdi filter remove outline
+f735 mdi filter variant
+fd1d mdi finance
+fbd2 mdi find replace
+f736 mdi fingerprint
+f737 mdi fire
+f738 mdi firefox
+f739 mdi fish
+f73a mdi flag
+f73b mdi flag checkered
+f73c mdi flag outline
+f73e mdi flag triangle
+f73f mdi flag variant
+f73d mdi flag variant outline
+f740 mdi flash
+f741 mdi flash auto
+fd1e mdi flash circle
+f742 mdi flash off
+fbd3 mdi flash outline
+fb79 mdi flash red eye
+f743 mdi flashlight
+f744 mdi flashlight off
+f592 mdi flask
+f593 mdi flask empty
+f594 mdi flask empty outline
+f595 mdi flask outline
+f745 mdi flattr
+f746 mdi flip to back
+f747 mdi flip to front
+fd1f mdi floor plan
+f748 mdi floppy
+f749 mdi flower
+f74a mdi folder
+f74b mdi folder account
+f74c mdi folder download
+f74d mdi folder google drive
+f74e mdi folder image
+f74f mdi folder lock
+f750 mdi folder lock open
+f751 mdi folder move
+f752 mdi folder multiple
+f753 mdi folder multiple image
+f754 mdi folder multiple outline
+fc6e mdi folder open
+f755 mdi folder outline
+f756 mdi folder plus
+f757 mdi folder remove
+fb9b mdi folder star
+f758 mdi folder upload
+f539 mdi font awesome
+f759 mdi food
+f75a mdi food apple
+fcc6 mdi food croissant
+faf1 mdi food fork drink
+faf2 mdi food off
+f75b mdi food variant
+f75c mdi football
+f75d mdi football australian
+f75e mdi football helmet
+fcc7 mdi forklift
+fc51 mdi format align bottom
+f75f mdi format align center
+f760 mdi format align justify
+f761 mdi format align left
+fc52 mdi format align middle
+f762 mdi format align right
+fc53 mdi format align top
+fb45 mdi format annotation plus
+f763 mdi format bold
+f764 mdi format clear
+f765 mdi format color fill
+fb9c mdi format color text
+f766 mdi format float center
+f767 mdi format float left
+f768 mdi format float none
+f769 mdi format float right
+fbd4 mdi format font
+f76a mdi format header 1
+f76b mdi format header 2
+f76c mdi format header 3
+f76d mdi format header 4
+f76e mdi format header 5
+f76f mdi format header 6
+f770 mdi format header decrease
+f771 mdi format header equal
+f772 mdi format header increase
+f773 mdi format header pound
+fb1d mdi format horizontal align center
+fb1e mdi format horizontal align left
+fb1f mdi format horizontal align right
+f774 mdi format indent decrease
+f775 mdi format indent increase
+f776 mdi format italic
+f777 mdi format line spacing
+fac7 mdi format line style
+fac8 mdi format line weight
+f778 mdi format list bulleted
+f779 mdi format list bulleted type
+fc54 mdi format list checks
+f77a mdi format list numbers
+fbd5 mdi format page break
+f77b mdi format paint
+f77c mdi format paragraph
+fbd6 mdi format pilcrow
+f77d mdi format quote close
+fc55 mdi format quote open
+fba8 mdi format rotate 90
+fb9d mdi format section
+f77e mdi format size
+f77f mdi format strikethrough
+f780 mdi format strikethrough variant
+f781 mdi format subscript
+f782 mdi format superscript
+f783 mdi format text
+f784 mdi format textdirection l to r
+f785 mdi format textdirection r to l
+faf3 mdi format title
+f786 mdi format underline
+fb20 mdi format vertical align bottom
+fb21 mdi format vertical align center
+fb22 mdi format vertical align top
+f787 mdi format wrap inline
+f788 mdi format wrap square
+f789 mdi format wrap tight
+f78a mdi format wrap top bottom
+f78b mdi forum
+fd20 mdi forum outline
+f78c mdi forward
+f78d mdi foursquare
+f78e mdi fridge
+f78f mdi fridge filled
+f790 mdi fridge filled bottom
+f791 mdi fridge filled top
+fcc8 mdi fuel
+f792 mdi fullscreen
+f793 mdi fullscreen exit
+f794 mdi function
+f795 mdi gamepad
+f796 mdi gamepad variant
+fbd7 mdi garage
+fbd8 mdi garage open
+fb46 mdi gas cylinder
+f797 mdi gas station
+f798 mdi gate
+f799 mdi gauge
+f79a mdi gavel
+f79b mdi gender female
+f79c mdi gender male
+f79d mdi gender male female
+f79e mdi gender transgender
+fcc9 mdi gesture
+fc3a mdi gesture double tap
+fc3b mdi gesture swipe down
+fc3c mdi gesture swipe left
+fc3d mdi gesture swipe right
+fc3e mdi gesture swipe up
+fc3f mdi gesture tap
+fc40 mdi gesture two double tap
+fc41 mdi gesture two tap
+f79f mdi ghost
+f7a0 mdi gift
+f7a1 mdi git
+f7a2 mdi github box
+f7a3 mdi github circle
+fbd9 mdi github face
+f7a4 mdi glass flute
+f7a5 mdi glass mug
+f7a6 mdi glass stange
+f7a7 mdi glass tulip
+f7a8 mdi glassdoor
+f7a9 mdi glasses
+f7aa mdi gmail
+f7ab mdi gnome
+fd21 mdi golf
+fb84 mdi gondola
+f7ac mdi google
+fcca mdi google analytics
+fccb mdi google assistant
+f7ad mdi google cardboard
+f7ae mdi google chrome
+f7af mdi google circles
+f7b0 mdi google circles communities
+f7b1 mdi google circles extended
+f7b2 mdi google circles group
+f7b3 mdi google controller
+f7b4 mdi google controller off
+f7b5 mdi google drive
+f7b6 mdi google earth
+f7b7 mdi google glass
+fd22 mdi google home
+fbda mdi google keep
+faf4 mdi google maps
+f7b8 mdi google nearby
+f7b9 mdi google pages
+fbdb mdi google photos
+f7ba mdi google physical web
+f7bb mdi google play
+f7bc mdi google plus
+f7bd mdi google plus box
+f7be mdi google translate
+f7bf mdi google wallet
+fb9e mdi gradient
+fb47 mdi grease pencil
+f7c0 mdi grid
+fc56 mdi grid large
+f7c1 mdi grid off
+f7c2 mdi group
+fc6f mdi guitar acoustic
+f7c3 mdi guitar electric
+f7c4 mdi guitar pick
+f7c5 mdi guitar pick outline
+fd23 mdi guy fawkes mask
+fb23 mdi hackernews
+fb83 mdi hamburger
+f7c6 mdi hand pointing right
+f7c7 mdi hanger
+f7c8 mdi hangouts
+f7c9 mdi harddisk
+f7ca mdi headphones
+f7cb mdi headphones box
+fccc mdi headphones off
+f7cc mdi headphones settings
+f7cd mdi headset
+f7ce mdi headset dock
+f7cf mdi headset off
+f7d0 mdi heart
+f7d1 mdi heart box
+f7d2 mdi heart box outline
+f7d3 mdi heart broken
+fbdd mdi heart half
+fbdc mdi heart half full
+fbde mdi heart half outline
+fc57 mdi heart off
+f7d4 mdi heart outline
+faf5 mdi heart pulse
+f7d5 mdi help
+fc89 mdi help box
+f7d6 mdi help circle
+fb24 mdi help circle outline
+fbf3 mdi help network
+f7d7 mdi hexagon
+fbdf mdi hexagon multiple
+f7d8 mdi hexagon outline
+fccd mdi high definition
+faf6 mdi highway
+f7d9 mdi history
+f7da mdi hololens
+f7db mdi home
+fd24 mdi home account
+fcce mdi home assistant
+fccf mdi home automation
+fcd0 mdi home circle
+fd25 mdi home heart
+faf7 mdi home map marker
+f7dc mdi home modern
+fb9f mdi home outline
+f7dd mdi home variant
+fbe0 mdi hook
+fbe1 mdi hook off
+f7de mdi hops
+f7df mdi hospital
+f7e0 mdi hospital building
+f7e1 mdi hospital marker
+fd26 mdi hot tub
+f7e2 mdi hotel
+f7e3 mdi houzz
+f7e4 mdi houzz box
+fd27 mdi hulu
+f7e5 mdi human
+f7e6 mdi human child
+fb48 mdi human female
+fb49 mdi human greeting
+fb4a mdi human handsdown
+fb4b mdi human handsup
+fb4c mdi human male
+f7e7 mdi human male female
+face mdi human pregnant
+fc42 mdi humble bundle
+fd28 mdi ice cream
+f7e8 mdi image
+f7e9 mdi image album
+f7ea mdi image area
+f7eb mdi image area close
+f7ec mdi image broken
+f7ed mdi image broken variant
+f7ee mdi image filter
+f7ef mdi image filter black white
+f7f0 mdi image filter center focus
+f7f1 mdi image filter center focus weak
+f7f2 mdi image filter drama
+f7f3 mdi image filter frames
+f7f4 mdi image filter hdr
+f7f5 mdi image filter none
+f7f6 mdi image filter tilt shift
+f7f7 mdi image filter vintage
+f7f8 mdi image multiple
+fd29 mdi image off
+f7f9 mdi import
+fb85 mdi inbox
+f7fa mdi inbox arrow down
+f8d0 mdi inbox arrow up
+faf8 mdi incognito
+fbe2 mdi infinity
+f7fb mdi information
+f7fc mdi information outline
+fb4d mdi information variant
+f7fd mdi instagram
+f7fe mdi instapaper
+f7ff mdi internet explorer
+f800 mdi invert colors
+fb75 mdi itunes
+f801 mdi jeepney
+f802 mdi jira
+f803 mdi jsfiddle
+fb25 mdi json
+fd2a mdi karate
+f804 mdi keg
+faf9 mdi kettle
+f805 mdi key
+f806 mdi key change
+f807 mdi key minus
+f808 mdi key plus
+f809 mdi key remove
+f80a mdi key variant
+f80b mdi keyboard
+f80c mdi keyboard backspace
+f80d mdi keyboard caps
+f80e mdi keyboard close
+f80f mdi keyboard off
+f810 mdi keyboard return
+f811 mdi keyboard tab
+f812 mdi keyboard variant
+fc43 mdi kickstarter
+f813 mdi kodi
+f814 mdi label
+f815 mdi label outline
+fd2b mdi ladybug
+fb26 mdi lambda
+fbb3 mdi lamp
+f816 mdi lan
+f817 mdi lan connect
+f818 mdi lan disconnect
+f819 mdi lan pending
+fb70 mdi language c
+fb71 mdi language cpp
+f81a mdi language csharp
+f81b mdi language css3
+fcd1 mdi language go
+f81c mdi language html5
+f81d mdi language javascript
+f81e mdi language php
+f81f mdi language python
+f820 mdi language python text
+fcd2 mdi language r
+fbe3 mdi language swift
+fbe4 mdi language typescript
+f821 mdi laptop
+f822 mdi laptop chromebook
+f823 mdi laptop mac
+fbe5 mdi laptop off
+f824 mdi laptop windows
+f825 mdi lastfm
+f945 mdi lastpass
+f826 mdi launch
+fcd3 mdi lava lamp
+f827 mdi layers
+f828 mdi layers off
+fb4e mdi lead pencil
+f829 mdi leaf
+f82a mdi led off
+f82b mdi led on
+f82c mdi led outline
+fcd4 mdi led strip
+f82d mdi led variant off
+f82e mdi led variant on
+f82f mdi led variant outline
+f830 mdi library
+f831 mdi library books
+f832 mdi library music
+f833 mdi library plus
+f834 mdi lightbulb
+fbe6 mdi lightbulb on
+fbe7 mdi lightbulb on outline
+f835 mdi lightbulb outline
+f836 mdi link
+f837 mdi link off
+f838 mdi link variant
+f839 mdi link variant off
+f83a mdi linkedin
+f83b mdi linkedin box
+f83c mdi linux
+fc70 mdi loading
+f83d mdi lock
+f83e mdi lock open
+f83f mdi lock open outline
+f840 mdi lock outline
+fbe8 mdi lock pattern
+fafa mdi lock plus
+fc71 mdi lock reset
+fcd5 mdi locker
+fcd6 mdi locker multiple
+f841 mdi login
+fafb mdi login variant
+f842 mdi logout
+fafc mdi logout variant
+f843 mdi looks
+fbe9 mdi loop
+f844 mdi loupe
+f845 mdi lumx
+f846 mdi magnet
+f847 mdi magnet on
+f848 mdi magnify
+f849 mdi magnify minus
+fbea mdi magnify minus outline
+f84a mdi magnify plus
+fbeb mdi magnify plus outline
+f84b mdi mail ru
+fbec mdi mailbox
+f84c mdi map
+f84d mdi map marker
+f84e mdi map marker circle
+fb4f mdi map marker minus
+f84f mdi map marker multiple
+f850 mdi map marker off
+fcd7 mdi map marker outline
+fb50 mdi map marker plus
+f851 mdi map marker radius
+f852 mdi margin
+f853 mdi markdown
+fb51 mdi marker
+f854 mdi marker check
+f855 mdi martini
+f856 mdi material ui
+f857 mdi math compass
+fb27 mdi matrix
+f858 mdi maxcdn
+fbed mdi medical bag
+f859 mdi medium
+f85a mdi memory
+f85b mdi menu
+f85c mdi menu down
+fbb4 mdi menu down outline
+f85d mdi menu left
+f85e mdi menu right
+f85f mdi menu up
+fbb5 mdi menu up outline
+f860 mdi message
+f861 mdi message alert
+fba0 mdi message bulleted
+fba1 mdi message bulleted off
+f862 mdi message draw
+f863 mdi message image
+f864 mdi message outline
+fb52 mdi message plus
+f865 mdi message processing
+f866 mdi message reply
+f867 mdi message reply text
+fbee mdi message settings
+fbef mdi message settings variant
+f868 mdi message text
+f869 mdi message text outline
+f86a mdi message video
+fb28 mdi meteor
+fcd8 mdi metronome
+fcd9 mdi metronome tick
+fcda mdi micro sd
+f86b mdi microphone
+f86c mdi microphone off
+f86d mdi microphone outline
+f86e mdi microphone settings
+f86f mdi microphone variant
+f870 mdi microphone variant off
+fb53 mdi microscope
+f871 mdi microsoft
+f872 mdi minecraft
+f873 mdi minus
+f874 mdi minus box
+fbf0 mdi minus box outline
+f875 mdi minus circle
+f876 mdi minus circle outline
+f877 mdi minus network
+fb29 mdi mixcloud
+fcdb mdi mixer
+f878 mdi monitor
+f879 mdi monitor multiple
+f87a mdi more
+f87b mdi motorbike
+f87c mdi mouse
+f87d mdi mouse off
+f87e mdi mouse variant
+f87f mdi mouse variant off
+fb54 mdi move resize
+fb55 mdi move resize variant
+f880 mdi movie
+fcdc mdi movie roll
+f881 mdi multiplication
+f882 mdi multiplication box
+fcdd mdi mushroom
+fcde mdi mushroom outline
+fc58 mdi music
+f883 mdi music box
+f884 mdi music box outline
+f885 mdi music circle
+f886 mdi music note
+fafd mdi music note bluetooth
+fafe mdi music note bluetooth off
+f887 mdi music note eighth
+f888 mdi music note half
+f889 mdi music note off
+f88a mdi music note quarter
+f88b mdi music note sixteenth
+f88c mdi music note whole
+fc59 mdi music off
+f88d mdi nature
+f88e mdi nature people
+f88f mdi navigation
+facc mdi near me
+f890 mdi needle
+f891 mdi nest protect
+f892 mdi nest thermostat
+fc44 mdi netflix
+fbf1 mdi network
+f893 mdi new box
+f894 mdi newspaper
+f895 mdi nfc
+f896 mdi nfc tap
+f897 mdi nfc variant
+fc72 mdi ninja
+fcdf mdi nintendo switch
+f898 mdi nodejs
+f899 mdi note
+fbb6 mdi note multiple
+fbb7 mdi note multiple outline
+f89a mdi note outline
+f89b mdi note plus
+f89c mdi note plus outline
+f89d mdi note text
+fd2c mdi notebook
+f89e mdi notification clear all
+fbf5 mdi npm
+fba2 mdi nuke
+fce0 mdi null
+f89f mdi numeric
+f8a0 mdi numeric 0 box
+f8a1 mdi numeric 0 box multiple outline
+f8a2 mdi numeric 0 box outline
+f8a3 mdi numeric 1 box
+f8a4 mdi numeric 1 box multiple outline
+f8a5 mdi numeric 1 box outline
+f8a6 mdi numeric 2 box
+f8a7 mdi numeric 2 box multiple outline
+f8a8 mdi numeric 2 box outline
+f8a9 mdi numeric 3 box
+f8aa mdi numeric 3 box multiple outline
+f8ab mdi numeric 3 box outline
+f8ac mdi numeric 4 box
+f8ad mdi numeric 4 box multiple outline
+f8ae mdi numeric 4 box outline
+f8af mdi numeric 5 box
+f8b0 mdi numeric 5 box multiple outline
+f8b1 mdi numeric 5 box outline
+f8b2 mdi numeric 6 box
+f8b3 mdi numeric 6 box multiple outline
+f8b4 mdi numeric 6 box outline
+f8b5 mdi numeric 7 box
+f8b6 mdi numeric 7 box multiple outline
+f8b7 mdi numeric 7 box outline
+f8b8 mdi numeric 8 box
+f8b9 mdi numeric 8 box multiple outline
+f8ba mdi numeric 8 box outline
+f8bb mdi numeric 9 box
+f8bc mdi numeric 9 box multiple outline
+f8bd mdi numeric 9 box outline
+f8be mdi numeric 9 plus box
+f8bf mdi numeric 9 plus box multiple outline
+f8c0 mdi numeric 9 plus box outline
+fbf6 mdi nut
+f8c1 mdi nutrition
+fb7a mdi oar
+f8c2 mdi octagon
+f8c3 mdi octagon outline
+fbf7 mdi octagram
+fc73 mdi octagram outline
+f8c4 mdi odnoklassniki
+f8c5 mdi office
+f8c6 mdi oil
+f8c7 mdi oil temperature
+f8c8 mdi omega
+f8c9 mdi onedrive
+fc45 mdi onenote
+facb mdi opacity
+f8ca mdi open in app
+f8cb mdi open in new
+f8cc mdi openid
+f8cd mdi opera
+f517 mdi orbit
+f8ce mdi ornament
+f8cf mdi ornament variant
+f8d1 mdi owl
+f8d2 mdi package
+f8d3 mdi package down
+f8d4 mdi package up
+f8d5 mdi package variant
+f8d6 mdi package variant closed
+faff mdi page first
+fb00 mdi page last
+fbf8 mdi page layout body
+fbf9 mdi page layout footer
+fbfa mdi page layout header
+fbfb mdi page layout sidebar left
+fbfc mdi page layout sidebar right
+f8d7 mdi palette
+f8d8 mdi palette advanced
+f8d9 mdi panda
+f8da mdi pandora
+f8db mdi panorama
+f8dc mdi panorama fisheye
+f8dd mdi panorama horizontal
+f8de mdi panorama vertical
+f8df mdi panorama wide angle
+f8e0 mdi paper cut vertical
+f8e1 mdi paperclip
+f8e2 mdi parking
+fce1 mdi passport
+f8e3 mdi pause
+f8e4 mdi pause circle
+f8e5 mdi pause circle outline
+f8e6 mdi pause octagon
+f8e7 mdi pause octagon outline
+f8e8 mdi paw
+fb56 mdi paw off
+f8e9 mdi pen
+f8ea mdi pencil
+f8eb mdi pencil box
+f8ec mdi pencil box outline
+fbfd mdi pencil circle
+fc74 mdi pencil circle outline
+f8ed mdi pencil lock
+f8ee mdi pencil off
+fbfe mdi pentagon
+fbff mdi pentagon outline
+f8ef mdi percent
+fce2 mdi periodic table co2
+fc46 mdi periscope
+f8f0 mdi pharmacy
+f8f1 mdi phone
+f8f2 mdi phone bluetooth
+fb01 mdi phone classic
+f8f3 mdi phone forward
+f8f4 mdi phone hangup
+f8f5 mdi phone in talk
+f8f6 mdi phone incoming
+f8f7 mdi phone locked
+f8f8 mdi phone log
+fb57 mdi phone minus
+f8f9 mdi phone missed
+f8fa mdi phone outgoing
+f8fb mdi phone paused
+fb58 mdi phone plus
+fd2d mdi phone return
+f8fc mdi phone settings
+f8fd mdi phone voip
+f8fe mdi pi
+f8ff mdi pi box
+fb7b mdi piano
+f900 mdi pig
+f901 mdi pill
+fc00 mdi pillar
+f902 mdi pin
+f903 mdi pin off
+f904 mdi pine tree
+f905 mdi pine tree box
+f906 mdi pinterest
+f907 mdi pinterest box
+fce3 mdi pipe
+fce4 mdi pipe disconnected
+fc01 mdi pistol
+f908 mdi pizza
+fbb9 mdi plane shield
+f909 mdi play
+f90a mdi play box outline
+f90b mdi play circle
+f90c mdi play circle outline
+f90d mdi play pause
+f90e mdi play protected content
+fac6 mdi playlist check
+f90f mdi playlist minus
+f910 mdi playlist play
+f911 mdi playlist plus
+f912 mdi playlist remove
+f913 mdi playstation
+fbb8 mdi plex
+f914 mdi plus
+f915 mdi plus box
+fc02 mdi plus box outline
+f916 mdi plus circle
+f917 mdi plus circle multiple outline
+f918 mdi plus circle outline
+f919 mdi plus network
+f91a mdi plus one
+fc03 mdi plus outline
+f91b mdi pocket
+f91c mdi pokeball
+fd2e mdi poker chip
+f91d mdi polaroid
+f91e mdi poll
+f91f mdi poll box
+f920 mdi polymer
+fb05 mdi pool
+f921 mdi popcorn
+fb59 mdi pot
+fb5a mdi pot mix
+f922 mdi pound
+f923 mdi pound box
+f924 mdi power
+fba3 mdi power plug
+fba4 mdi power plug off
+f925 mdi power settings
+f926 mdi power socket
+fce5 mdi power socket eu
+fce6 mdi power socket uk
+fce7 mdi power socket us
+fc04 mdi prescription
+f927 mdi presentation
+f928 mdi presentation play
+f929 mdi printer
+f92a mdi printer 3d
+f92b mdi printer alert
+fc05 mdi printer settings
+fb02 mdi priority high
+fb03 mdi priority low
+f92c mdi professional hexagon
+f92d mdi projector
+f92e mdi projector screen
+fba5 mdi publish
+f92f mdi pulse
+f930 mdi puzzle
+fb04 mdi qqchat
+f931 mdi qrcode
+f932 mdi qrcode scan
+f933 mdi quadcopter
+f934 mdi quality high
+f935 mdi quicktime
+f936 mdi radar
+f937 mdi radiator
+f938 mdi radio
+f939 mdi radio handheld
+f93a mdi radio tower
+f93b mdi radioactive
+f93c mdi radiobox blank
+f93d mdi radiobox marked
+f93e mdi raspberrypi
+f93f mdi ray end
+f940 mdi ray end arrow
+f941 mdi ray start
+f942 mdi ray start arrow
+f943 mdi ray start end
+f944 mdi ray vertex
+fc06 mdi react
+f946 mdi read
+f948 mdi receipt
+f949 mdi record
+f94a mdi record rec
+f94b mdi recycle
+f94c mdi reddit
+f94d mdi redo
+f94e mdi redo variant
+f94f mdi refresh
+f950 mdi regex
+f951 mdi relative scale
+f952 mdi reload
+f953 mdi remote
+f954 mdi rename box
+fb86 mdi reorder horizontal
+fb87 mdi reorder vertical
+f955 mdi repeat
+f956 mdi repeat off
+f957 mdi repeat once
+f958 mdi replay
+f959 mdi reply
+f95a mdi reply all
+f95b mdi reproduction
+f95c mdi resize bottom right
+f95d mdi responsive
+fc07 mdi restart
+fba6 mdi restore
+f95e mdi rewind
+fc08 mdi rewind outline
+fc09 mdi rhombus
+fc0a mdi rhombus outline
+f95f mdi ribbon
+fce8 mdi rice
+fce9 mdi ring
+f960 mdi road
+f961 mdi road variant
+fba7 mdi robot
+f962 mdi rocket
+fc0b mdi roomba
+f963 mdi rotate 3d
+f964 mdi rotate left
+f965 mdi rotate left variant
+f966 mdi rotate right
+f967 mdi rotate right variant
+fb06 mdi rounded corner
+f968 mdi router wireless
+f969 mdi routes
+fb07 mdi rowing
+f96a mdi rss
+f96b mdi rss box
+f96c mdi ruler
+fc0c mdi run
+f96d mdi run fast
+f96e mdi sale
+fcea mdi sass
+f96f mdi satellite
+f970 mdi satellite variant
+fb08 mdi saxophone
+f971 mdi scale
+fad0 mdi scale balance
+f972 mdi scale bathroom
+fba9 mdi scanner
+f973 mdi school
+f974 mdi screen rotation
+f975 mdi screen rotation lock
+f976 mdi screwdriver
+f977 mdi script
+f978 mdi sd
+f979 mdi seal
+fc0d mdi search web
+f97a mdi seat flat
+f97b mdi seat flat angled
+f97c mdi seat individual suite
+f97d mdi seat legroom extra
+f97e mdi seat legroom normal
+f97f mdi seat legroom reduced
+f980 mdi seat recline extra
+f981 mdi seat recline normal
+f982 mdi security
+fb88 mdi security home
+f983 mdi security network
+f984 mdi select
+f985 mdi select all
+f986 mdi select inverse
+f987 mdi select off
+f988 mdi selection
+fc75 mdi selection off
+f989 mdi send
+fceb mdi send secure
+fb5b mdi serial port
+f98a mdi server
+f98b mdi server minus
+f98c mdi server network
+f98d mdi server network off
+f98e mdi server off
+f98f mdi server plus
+f990 mdi server remove
+f991 mdi server security
+fc76 mdi set all
+fc77 mdi set center
+fc78 mdi set center right
+fc79 mdi set left
+fc7a mdi set left center
+fc7b mdi set left right
+fc7c mdi set none
+fc7d mdi set right
+f992 mdi settings
+f993 mdi settings box
+fd2f mdi shape
+fb5c mdi shape circle plus
+fd30 mdi shape outline
+f994 mdi shape plus
+fb5d mdi shape polygon plus
+fb5e mdi shape rectangle plus
+fb5f mdi shape square plus
+f995 mdi share
+f996 mdi share variant
+f997 mdi shield
+fc7e mdi shield half full
+f998 mdi shield outline
+fd31 mdi ship wheel
+f999 mdi shopping
+f99a mdi shopping music
+fc0e mdi shovel
+fc0f mdi shovel off
+f99b mdi shredder
+f99c mdi shuffle
+f99d mdi shuffle disabled
+f99e mdi shuffle variant
+f99f mdi sigma
+fb2a mdi sigma lower
+f9a0 mdi sign caution
+fc7f mdi sign direction
+fc80 mdi sign text
+f9a1 mdi signal
+fc10 mdi signal 2g
+fc11 mdi signal 3g
+fc12 mdi signal 4g
+fc13 mdi signal hspa
+fc14 mdi signal hspa plus
+fc81 mdi signal off
+fb09 mdi signal variant
+f9a2 mdi silverware
+f9a3 mdi silverware fork
+f9a4 mdi silverware spoon
+f9a5 mdi silverware variant
+f9a6 mdi sim
+f9a7 mdi sim alert
+f9a8 mdi sim off
+f9a9 mdi sitemap
+f9aa mdi skip backward
+f9ab mdi skip forward
+f9ac mdi skip next
+fb60 mdi skip next circle
+fb61 mdi skip next circle outline
+f9ad mdi skip previous
+fb62 mdi skip previous circle
+fb63 mdi skip previous circle outline
+fb8a mdi skull
+f9ae mdi skype
+f9af mdi skype business
+f9b0 mdi slack
+f9b1 mdi sleep
+f9b2 mdi sleep off
+f9b3 mdi smoking
+f9b4 mdi smoking off
+f9b5 mdi snapchat
+fc15 mdi snowflake
+f9b6 mdi snowman
+f9b7 mdi soccer
+fd32 mdi soccer field
+f9b8 mdi sofa
+fb8b mdi solid
+f9b9 mdi sort
+f9ba mdi sort alphabetical
+f9bb mdi sort ascending
+f9bc mdi sort descending
+f9bd mdi sort numeric
+f9be mdi sort variant
+f9bf mdi soundcloud
+fb2b mdi source branch
+fc16 mdi source commit
+fc17 mdi source commit end
+fc18 mdi source commit end local
+fc19 mdi source commit local
+fc1a mdi source commit next local
+fc1b mdi source commit start
+fc1c mdi source commit start next local
+f9c0 mdi source fork
+fb2c mdi source merge
+f9c1 mdi source pull
+fcec mdi soy sauce
+f9c2 mdi speaker
+f9c3 mdi speaker off
+fc1d mdi speaker wireless
+f9c4 mdi speedometer
+f9c5 mdi spellcheck
+f9c6 mdi spotify
+f9c7 mdi spotlight
+f9c8 mdi spotlight beam
+fb64 mdi spray
+fc62 mdi square
+f9c9 mdi square inc
+f9ca mdi square inc cash
+fc61 mdi square outline
+fc82 mdi square root
+f9cb mdi stack overflow
+fb0a mdi stackexchange
+fc1e mdi stadium
+f9cc mdi stairs
+fced mdi standard definition
+f9cd mdi star
+f9ce mdi star circle
+f9cf mdi star half
+f9d0 mdi star off
+f9d1 mdi star outline
+f9d2 mdi steam
+f9d3 mdi steering
+f9d4 mdi step backward
+f9d5 mdi step backward 2
+f9d6 mdi step forward
+f9d7 mdi step forward 2
+f9d8 mdi stethoscope
+facf mdi sticker
+fc83 mdi sticker emoji
+f9d9 mdi stocking
+f9da mdi stop
+fb65 mdi stop circle
+fb66 mdi stop circle outline
+f9db mdi store
+f9dc mdi store 24 hour
+f9dd mdi stove
+fb0b mdi subdirectory arrow left
+fb0c mdi subdirectory arrow right
+fbaa mdi subway
+f9de mdi subway variant
+fc84 mdi summit
+f9df mdi sunglasses
+fac4 mdi surround sound
+fcee mdi surround sound 2 0
+fcef mdi surround sound 3 1
+fcf0 mdi surround sound 5 1
+fcf1 mdi surround sound 7 1
+fc1f mdi svg
+f9e0 mdi swap horizontal
+f9e1 mdi swap vertical
+f9e2 mdi swim
+f9e3 mdi switch
+f9e4 mdi sword
+fc85 mdi sword cross
+f9e5 mdi sync
+f9e6 mdi sync alert
+f9e7 mdi sync off
+f9e8 mdi tab
+fc5a mdi tab plus
+f9e9 mdi tab unselected
+f9ea mdi table
+fd33 mdi table column
+f9eb mdi table column plus after
+f9ec mdi table column plus before
+f9ed mdi table column remove
+f9ee mdi table column width
+f9ef mdi table edit
+f9f0 mdi table large
+fd34 mdi table of contents
+fd35 mdi table row
+f9f1 mdi table row height
+f9f2 mdi table row plus after
+f9f3 mdi table row plus before
+f9f4 mdi table row remove
+fd36 mdi table settings
+f9f5 mdi tablet
+f9f6 mdi tablet android
+f9f7 mdi tablet ipad
+fc60 mdi taco
+f9f8 mdi tag
+f9f9 mdi tag faces
+fb89 mdi tag heart
+f9fa mdi tag multiple
+f9fb mdi tag outline
+fc20 mdi tag plus
+fc21 mdi tag remove
+f9fc mdi tag text outline
+f9fd mdi target
+f9fe mdi taxi
+f9ff mdi teamviewer
+fa00 mdi telegram
+fa01 mdi television
+fd37 mdi television box
+fcf2 mdi television classic
+fd38 mdi television classic off
+fa02 mdi television guide
+fd39 mdi television off
+fa03 mdi temperature celsius
+fa04 mdi temperature fahrenheit
+fa05 mdi temperature kelvin
+fa06 mdi tennis
+fa07 mdi tent
+fa08 mdi terrain
+fb67 mdi test tube
+fb68 mdi text shadow
+fa09 mdi text to speech
+fa0a mdi text to speech off
+fb0d mdi textbox
+fcf3 mdi textbox password
+fa0b mdi texture
+fa0c mdi theater
+fa0d mdi theme light dark
+fa0e mdi thermometer
+fa0f mdi thermometer lines
+fcf4 mdi thought bubble
+fcf5 mdi thought bubble outline
+fa10 mdi thumb down
+fa11 mdi thumb down outline
+fa12 mdi thumb up
+fa13 mdi thumb up outline
+fa14 mdi thumbs up down
+fa15 mdi ticket
+fa16 mdi ticket account
+fa17 mdi ticket confirmation
+fc22 mdi ticket percent
+fa18 mdi tie
+fc23 mdi tilde
+fa19 mdi timelapse
+fa1a mdi timer
+fa1b mdi timer 10
+fa1c mdi timer 3
+fa1d mdi timer off
+fa1e mdi timer sand
+fbab mdi timer sand empty
+fc8a mdi timer sand full
+fa1f mdi timetable
+fa20 mdi toggle switch
+fa21 mdi toggle switch off
+fa22 mdi tooltip
+fa23 mdi tooltip edit
+fa24 mdi tooltip image
+fa25 mdi tooltip outline
+fa26 mdi tooltip outline plus
+fa27 mdi tooltip text
+fa28 mdi tooth
+fa29 mdi tor
+fb7f mdi tower beach
+fb80 mdi tower fire
+fd3a mdi towing
+fcf6 mdi trackpad
+fa2a mdi traffic light
+fa2b mdi train
+fa2c mdi tram
+fa2d mdi transcribe
+fa2e mdi transcribe close
+fa2f mdi transfer
+fbac mdi transit transfer
+fac9 mdi translate
+fc24 mdi treasure chest
+fa30 mdi tree
+fa31 mdi trello
+fa32 mdi trending down
+fa33 mdi trending neutral
+fa34 mdi trending up
+fa35 mdi triangle
+fa36 mdi triangle outline
+fa37 mdi trophy
+fa38 mdi trophy award
+fa39 mdi trophy outline
+fa3a mdi trophy variant
+fa3b mdi trophy variant outline
+fa3c mdi truck
+fa3d mdi truck delivery
+fc86 mdi truck fast
+fc25 mdi truck trailer
+fa3e mdi tshirt crew
+fa3f mdi tshirt v
+fa40 mdi tumblr
+fa41 mdi tumblr reblog
+fb2d mdi tune
+fb69 mdi tune vertical
+fa42 mdi twitch
+fa43 mdi twitter
+fa44 mdi twitter box
+fa45 mdi twitter circle
+fa46 mdi twitter retweet
+fc47 mdi uber
+fa47 mdi ubuntu
+fcf7 mdi ultra high definition
+fa48 mdi umbraco
+fa49 mdi umbrella
+fa4a mdi umbrella outline
+fa4b mdi undo
+fa4c mdi undo variant
+fa4d mdi unfold less horizontal
+fc5e mdi unfold less vertical
+fa4e mdi unfold more horizontal
+fc5f mdi unfold more vertical
+fa4f mdi ungroup
+fbad mdi unity
+fa50 mdi untappd
+fbae mdi update
+fa51 mdi upload
+fd3b mdi upload multiple
+fbf4 mdi upload network
+fa52 mdi usb
+fcf8 mdi van passenger
+fcf9 mdi van utility
+fcfa mdi vanish
+fa53 mdi vector arrange above
+fa54 mdi vector arrange below
+fa55 mdi vector circle
+fa56 mdi vector circle variant
+fa57 mdi vector combine
+fa58 mdi vector curve
+fa59 mdi vector difference
+fa5a mdi vector difference ab
+fa5b mdi vector difference ba
+fa5c mdi vector intersection
+fa5d mdi vector line
+fa5e mdi vector point
+fa5f mdi vector polygon
+fa60 mdi vector polyline
+fc48 mdi vector radius
+fac5 mdi vector rectangle
+fa61 mdi vector selection
+f500 mdi vector square
+fa62 mdi vector triangle
+fa63 mdi vector union
+fa77 mdi venmo
+fa64 mdi verified
+fa65 mdi vibrate
+fa66 mdi video
+fcfb mdi video 3d
+fd3c mdi video 4k box
+fd3d mdi video input antenna
+fd3e mdi video input component
+fd3f mdi video input hdmi
+fd40 mdi video input svideo
+fa67 mdi video off
+fa68 mdi video switch
+fa69 mdi view agenda
+fa6a mdi view array
+fa6b mdi view carousel
+fa6c mdi view column
+fa6d mdi view dashboard
+fd41 mdi view dashboard variant
+fa6e mdi view day
+fa6f mdi view grid
+fa70 mdi view headline
+fa71 mdi view list
+fa72 mdi view module
+fc26 mdi view parallel
+fa73 mdi view quilt
+fc27 mdi view sequential
+fa74 mdi view stream
+fa75 mdi view week
+fa76 mdi vimeo
+fb0e mdi violin
+fb0f mdi visualstudio
+fa78 mdi vk
+fa79 mdi vk box
+fa7a mdi vk circle
+fa7b mdi vlc
+faca mdi voice
+fa7c mdi voicemail
+fa7d mdi volume high
+fa7e mdi volume low
+fa7f mdi volume medium
+fc5c mdi volume minus
+fc5d mdi volume mute
+fa80 mdi volume off
+fc5b mdi volume plus
+fa81 mdi vpn
+fd42 mdi vuejs
+fa82 mdi walk
+fcfc mdi wall
+fa83 mdi wallet
+fa84 mdi wallet giftcard
+fa85 mdi wallet membership
+fa86 mdi wallet travel
+fa87 mdi wan
+fc28 mdi washing machine
+fa88 mdi watch
+fa89 mdi watch export
+fa8a mdi watch import
+fbaf mdi watch vibrate
+fa8b mdi water
+fa8c mdi water off
+fa8d mdi water percent
+fa8e mdi water pump
+fb11 mdi watermark
+fc8b mdi waves
+fa8f mdi weather cloudy
+fa90 mdi weather fog
+fa91 mdi weather hail
+fa92 mdi weather lightning
+fb7c mdi weather lightning rainy
+fa93 mdi weather night
+fa94 mdi weather partlycloudy
+fa95 mdi weather pouring
+fa96 mdi weather rainy
+fa97 mdi weather snowy
+fb7d mdi weather snowy rainy
+fa98 mdi weather sunny
+fa99 mdi weather sunset
+fa9a mdi weather sunset down
+fa9b mdi weather sunset up
+fa9c mdi weather windy
+fa9d mdi weather windy variant
+fa9e mdi web
+fa9f mdi webcam
+fb2e mdi webhook
+fc29 mdi webpack
+fb10 mdi wechat
+faa0 mdi weight
+faa1 mdi weight kilogram
+faa2 mdi whatsapp
+faa3 mdi wheelchair accessibility
+faa4 mdi white balance auto
+faa5 mdi white balance incandescent
+faa6 mdi white balance iridescent
+faa7 mdi white balance sunny
+fc2a mdi widgets
+faa8 mdi wifi
+faa9 mdi wifi off
+faaa mdi wii
+fc2b mdi wiiu
+faab mdi wikipedia
+faac mdi window close
+faad mdi window closed
+faae mdi window maximize
+faaf mdi window minimize
+fab0 mdi window open
+fab1 mdi window restore
+fab2 mdi windows
+fab3 mdi wordpress
+fab4 mdi worker
+fab5 mdi wrap
+fab6 mdi wrench
+fab7 mdi wunderlist
+fd43 mdi xamarin
+fd44 mdi xamarin outline
+fb72 mdi xaml
+fab8 mdi xbox
+fab9 mdi xbox controller
+fc49 mdi xbox controller battery alert
+fc4a mdi xbox controller battery empty
+fc4b mdi xbox controller battery full
+fc4c mdi xbox controller battery low
+fc4d mdi xbox controller battery medium
+fc4e mdi xbox controller battery unknown
+faba mdi xbox controller off
+fabb mdi xda
+fabc mdi xing
+fabd mdi xing box
+fabe mdi xing circle
+fabf mdi xml
+fcfd mdi xmpp
+fc87 mdi yammer
+fac0 mdi yeast
+fac1 mdi yelp
+fb7e mdi yin yang
+fd45 mdi youtube creator studio
+fd46 mdi youtube gaming
+fac2 mdi youtube play
+f947 mdi youtube tv
+fac3 mdi zip box
+f421 oct alert
+f433 oct arrow down
+f434 oct arrow left
+f432 oct arrow right
+f479 oct arrow small down
+f47a oct arrow small left
+f45c oct arrow small right
+f478 oct arrow small up
+f431 oct arrow up
+f499 oct beaker
+f49a oct bell
+f49d oct bold
+f405 oct book
+f461 oct bookmark
+f491 oct briefcase
+f43c oct broadcast
+f488 oct browser
+f46f oct bug
+f455 oct calendar
+f42e oct check
+f45e oct checklist
+f47c oct chevron down
+f47d oct chevron left
+f460 oct chevron right
+f47b oct chevron up
+f468 oct circle slash
+f493 oct circuit board
+f429 oct clippy
+f43a oct clock
+f409 oct cloud download
+f40a oct cloud upload
+f44f oct code
+f41f oct comment
+f442 oct comment discussion
+f439 oct credit card
+f48b oct dash
+f463 oct dashboard
+f472 oct database
+f498 oct desktop download
+f446 oct device camera
+f447 oct device camera video
+f67c oct device desktop
+f42c oct device mobile
+f440 oct diff
+f457 oct diff added
+f474 oct diff ignored
+f459 oct diff modified
+f458 oct diff removed
+f45a oct diff renamed
+f4a4 oct ellipses
+f475 oct ellipsis
+f441 oct eye
+f4a5 oct file
+f471 oct file binary
+f40d oct file code
+f413 oct file directory
+f40f oct file media
+f411 oct file pdf
+f414 oct file submodule
+f482 oct file symlink directory
+f481 oct file symlink file
+f40e oct file text
+f410 oct file zip
+f490 oct flame
+f48c oct fold
+f423 oct gear
+f436 oct gift
+f40c oct gist
+f46c oct gist secret
+f418 oct git branch
+f417 oct git commit
+f47f oct git compare
+f419 oct git merge
+f407 oct git pull request
+f484 oct globe
+f4a6 oct grabber
+f437 oct graph
+2665 oct heart
+f464 oct history
+f46d oct home
+f45b oct horizontal rule
+f477 oct hubot
+f48d oct inbox
+f449 oct info
+f41d oct issue closed
+f41b oct issue opened
+f41c oct issue reopened
+f49f oct italic
+f416 oct jersey
+f43d oct key
+f40b oct keyboard
+f495 oct law
+f400 oct light bulb
+f44c oct link
+f465 oct link external
+f452 oct list ordered
+f451 oct list unordered
+f450 oct location
+f456 oct lock
+f480 oct logo gist
+f470 oct logo github
+f42f oct mail
+f430 oct mail read
+f443 oct mail reply
+f408 oct mark github
+f48a oct markdown
+f45f oct megaphone
+f486 oct mention
+f45d oct milestone
+f41a oct mirror
+f494 oct mortar board
+f466 oct mute
+f476 oct no newline
+f406 oct octoface
+f42b oct organization
+f487 oct package
+f48f oct paintcan
+f448 oct pencil
+f415 oct person
+f435 oct pin
+f492 oct plug
+f44d oct plus
+f4a7 oct plus small
+f444 oct primitive dot
+f445 oct primitive square
+f469 oct pulse
+f420 oct question
+f453 oct quote
+f424 oct radio tower
+f4a8 oct reply
+f401 oct repo
+f43f oct repo clone
+f43e oct repo force push
+f402 oct repo forked
+f404 oct repo pull
+f403 oct repo push
+f427 oct rocket
+f428 oct rss
+f43b oct ruby
+f422 oct search
+f473 oct server
+f462 oct settings
+f49c oct shield
+f42a oct sign in
+f426 oct sign out
+f4a2 oct smiley
+f483 oct squirrel
+f41e oct star
+f46e oct stop
+f46a oct sync
+f412 oct tag
+f4a0 oct tasklist
+f46b oct telescope
+f489 oct terminal
+f49e oct text size
+f44e oct three bars
+f497 oct thumbsdown
+f496 oct thumbsup
+f425 oct tools
+f48e oct trashcan
+f44b oct triangle down
+f438 oct triangle left
+f44a oct triangle right
+f47e oct triangle up
+f42d oct unfold
+f485 oct unmute
+f4a3 oct unverified
+f4a1 oct verified
+f454 oct versions
+f49b oct watch
+f467 oct x
+26a1 oct zap
+e0a0 pl branch
+e0a1 pl current line
+e0a2 pl hostname
+e0b0 pl left hard divider
+e0b1 pl left soft divider
+e0a1 pl line number
+e0a2 pl readonly
+e0b2 pl right hard divider
+e0b3 pl right soft divider
+e0b9 ple backslash separator
+e0bf ple backslash separator redundant
+e0a3 ple column number
+e0a3 ple current column
+e0c0 ple flame thick
+e0c2 ple flame thick mirrored
+e0c1 ple flame thin
+e0c3 ple flame thin mirrored
+e0bb ple forwardslash separator
+e0bd ple forwardslash separator redundant
+e0cc ple honeycomb
+e0cd ple honeycomb outline
+e0c8 ple ice waveform
+e0ca ple ice waveform mirrored
+e0b6 ple left half circle thick
+e0b7 ple left half circle thin
+e0d0 ple lego block facing
+e0d1 ple lego block sideways
+e0ce ple lego separator
+e0cf ple lego separator thin
+e0b8 ple lower left triangle
+e0ba ple lower right triangle
+e0c6 ple pixelated squares big
+e0c7 ple pixelated squares big mirrored
+e0c4 ple pixelated squares small
+e0c5 ple pixelated squares small mirrored
+e0b4 ple right half circle thick
+e0b5 ple right half circle thin
+e0d2 ple trapezoid top bottom
+e0d4 ple trapezoid top bottom mirrored
+e0bc ple upper left triangle
+e0be ple upper right triangle
+e007 pom away
+e000 pom clean code
+e00a pom external interruption
+e009 pom internal interruption
+e006 pom long pause
+e008 pom pair programming
+e001 pom pomodoro done
+e002 pom pomodoro estimated
+e004 pom pomodoro squashed
+e003 pom pomodoro ticking
+e005 pom short pause
+e61a seti bower
+e61b seti cjsx
+e61b seti coffee
+e615 seti config
+e614 seti css
+e612 seti default
+e618 seti ejs
+e623 seti favicon
+e613 seti folder
+e627 seti go
+e611 seti grunt
+e610 seti gulp
+e61f seti haskell
+e607 seti heroku
+e617 seti home
+e60e seti html
+e60d seti image
+e60c seti javascript
+e60b seti json
+e624 seti julia
+e622 seti karma
+e60b seti less
+e60a seti license
+e620 seti lua
+e609 seti markdown
+e60f seti mustache
+e616 seti npm
+e608 seti php
+e602 seti play arrow
+e601 seti project
+e606 seti python
+e604 seti rails
+e625 seti react
+e605 seti ruby
+e603 seti sass
+e600 seti stylus
+e612 seti text
+e61c seti twig
+e628 seti typescript
+e619 seti xml
+e36e weather alien
+e345 weather aliens
+e372 weather barometer
+e339 weather celsius
+e33d weather cloud
+e33a weather cloud down
+e33b weather cloud refresh
+e33c weather cloud up
+e312 weather cloudy
+e310 weather cloudy gusts
+e311 weather cloudy windy
+e302 weather day cloudy
+e300 weather day cloudy gusts
+e376 weather day cloudy high
+e301 weather day cloudy windy
+e303 weather day fog
+e304 weather day hail
+e3ae weather day haze
+e3bc weather day light wind
+e305 weather day lightning
+e308 weather day rain
+e306 weather day rain mix
+e307 weather day rain wind
+e309 weather day showers
+e3aa weather day sleet
+e362 weather day sleet storm
+e30a weather day snow
+e365 weather day snow thunderstorm
+e35f weather day snow wind
+e30b weather day sprinkle
+e30e weather day storm showers
+e30d weather day sunny
+e30c weather day sunny overcast
+e30f weather day thunderstorm
+e37d weather day windy
+e33e weather degrees
+e340 weather direction down
+e33f weather direction down left
+e380 weather direction down right
+e344 weather direction left
+e349 weather direction right
+e353 weather direction up
+e37f weather direction up left
+e352 weather direction up right
+e35d weather dust
+e3be weather earthquake
+e341 weather fahrenheit
+e3bf weather fire
+e375 weather flood
+e313 weather fog
+e3c5 weather gale warning
+e314 weather hail
+e343 weather horizon
+e342 weather horizon alt
+e36b weather hot
+e373 weather humidity
+e36c weather hurricane
+e3c7 weather hurricane warning
+e315 weather lightning
+e369 weather lunar eclipse
+e36a weather meteor
+e3ce weather moon alt first quarter
+e3d5 weather moon alt full
+e3e3 weather moon alt new
+e3dc weather moon alt third quarter
+e3dd weather moon alt waning crescent 1
+e3de weather moon alt waning crescent 2
+e3df weather moon alt waning crescent 3
+e3e0 weather moon alt waning crescent 4
+e3e1 weather moon alt waning crescent 5
+e3e2 weather moon alt waning crescent 6
+e3d6 weather moon alt waning gibbous 1
+e3d7 weather moon alt waning gibbous 2
+e3d8 weather moon alt waning gibbous 3
+e3d9 weather moon alt waning gibbous 4
+e3da weather moon alt waning gibbous 5
+e3db weather moon alt waning gibbous 6
+e3c8 weather moon alt waxing crescent 1
+e3c9 weather moon alt waxing crescent 2
+e3ca weather moon alt waxing crescent 3
+e3cb weather moon alt waxing crescent 4
+e3cc weather moon alt waxing crescent 5
+e3cd weather moon alt waxing crescent 6
+e3cf weather moon alt waxing gibbous 1
+e3d0 weather moon alt waxing gibbous 2
+e3d1 weather moon alt waxing gibbous 3
+e3d2 weather moon alt waxing gibbous 4
+e3d3 weather moon alt waxing gibbous 5
+e3d4 weather moon alt waxing gibbous 6
+e394 weather moon first quarter
+e39b weather moon full
+e38d weather moon new
+e3a2 weather moon third quarter
+e3a3 weather moon waning crescent 1
+e3a4 weather moon waning crescent 2
+e3a5 weather moon waning crescent 3
+e3a6 weather moon waning crescent 4
+e3a7 weather moon waning crescent 5
+e3a8 weather moon waning crescent 6
+e39c weather moon waning gibbous 1
+e39d weather moon waning gibbous 2
+e39e weather moon waning gibbous 3
+e39f weather moon waning gibbous 4
+e3a0 weather moon waning gibbous 5
+e3a1 weather moon waning gibbous 6
+e38e weather moon waxing crescent 1
+e38f weather moon waxing crescent 2
+e390 weather moon waxing crescent 3
+e391 weather moon waxing crescent 4
+e392 weather moon waxing crescent 5
+e393 weather moon waxing crescent 6
+e395 weather moon waxing gibbous 1
+e396 weather moon waxing gibbous 2
+e397 weather moon waxing gibbous 3
+e398 weather moon waxing gibbous 4
+e399 weather moon waxing gibbous 5
+e39a weather moon waxing gibbous 6
+e3c1 weather moonrise
+e3c2 weather moonset
+e374 weather na
+e37e weather night alt cloudy
+e31f weather night alt cloudy gusts
+e377 weather night alt cloudy high
+e320 weather night alt cloudy windy
+e321 weather night alt hail
+e322 weather night alt lightning
+e379 weather night alt partly cloudy
+e325 weather night alt rain
+e326 weather night alt rain mix
+e324 weather night alt rain wind
+e3ac weather night alt sleet
+e364 weather night alt sleet storm
+e327 weather night alt snow
+e367 weather night alt snow thunderstorm
+e361 weather night alt snow wind
+e328 weather night alt sprinkle
+e329 weather night alt storm showers
+e32a weather night alt thunderstorm
+e32b weather night clear
+e32e weather night cloudy
+e32c weather night cloudy gusts
+e378 weather night cloudy high
+e32d weather night cloudy windy
+e346 weather night fog
+e32f weather night hail
+e330 weather night lightning
+e37b weather night partly cloudy
+e333 weather night rain
+e331 weather night rain mix
+e332 weather night rain wind
+e334 weather night showers
+e3ab weather night sleet
+e363 weather night sleet storm
+e335 weather night snow
+e366 weather night snow thunderstorm
+e360 weather night snow wind
+e336 weather night sprinkle
+e337 weather night storm showers
+e338 weather night thunderstorm
+e318 weather rain
+e316 weather rain mix
+e317 weather rain wind
+e371 weather raindrop
+e34a weather raindrops
+e348 weather refresh
+e347 weather refresh alt
+e37a weather sandstorm
+e319 weather showers
+e3ad weather sleet
+e3c4 weather small craft advisory
+e36d weather smog
+e35c weather smoke
+e31a weather snow
+e35e weather snow wind
+e36f weather snowflake cold
+e368 weather solar eclipse
+e31b weather sprinkle
+e370 weather stars
+e31c weather storm showers
+e3c6 weather storm warning
+e34b weather strong wind
+e34c weather sunrise
+e34d weather sunset
+e350 weather thermometer
+e34e weather thermometer exterior
+e34f weather thermometer internal
+e31d weather thunderstorm
+e382 weather time 1
+e38b weather time 10
+e38c weather time 11
+e381 weather time 12
+e383 weather time 2
+e384 weather time 3
+e385 weather time 4
+e386 weather time 5
+e387 weather time 6
+e388 weather time 7
+e389 weather time 8
+e38a weather time 9
+e351 weather tornado
+e3c3 weather train
+e3bd weather tsunami
+e37c weather umbrella
+e3c0 weather volcano
+e3af weather wind beaufort 0
+e3b0 weather wind beaufort 1
+e3b9 weather wind beaufort 10
+e3ba weather wind beaufort 11
+e3bb weather wind beaufort 12
+e3b1 weather wind beaufort 2
+e3b2 weather wind beaufort 3
+e3b3 weather wind beaufort 4
+e3b4 weather wind beaufort 5
+e3b5 weather wind beaufort 6
+e3b6 weather wind beaufort 7
+e3b7 weather wind beaufort 8
+e3b8 weather wind beaufort 9
+e3a9 weather wind direction
+e35b weather wind east
+e35a weather wind north
+e359 weather wind north east
+e358 weather wind north west
+e357 weather wind south
+e356 weather wind south east
+e355 weather wind south west
+e354 weather wind west
+e31e weather windy
