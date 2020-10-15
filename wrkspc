@@ -1,0 +1,32 @@
+#!/bin/bash -e
+
+SCRIPT_DIR=$(dirname -- "$(readlink -f -- "$BASH_SOURCE")")
+
+cd ${SCRIPT_DIR}
+
+CURRENT="$(i3-msg -t get_workspaces | jq '.[] | select(.focused==true).num')"
+OLD_NAME="$(i3-msg -t get_workspaces | jq '.[] | select(.focused==true).name')"
+
+# (1) getting the icon
+ICON=$(cat items-out.txt | rofi -dmenu -markup-rows -i -multi-select -p "" -theme theme | cut -f1 -d' ')
+
+# (2) getting the color
+COLOR_RAW=$(zenity --color-selection --show-palette)
+SEQUENCE=${COLOR_RAW//[rgb(  )]}
+NUMBERS=${SEQUENCE//,/ }
+COLOR=$(printf "#%02X%02X%02X" $NUMBERS)
+
+# (3) getting the title
+TITLE=$(zenity --entry --text "Please enter the new workspace title:")
+
+# (4) getting the workspace number
+INDEX=$(zenity --entry --text "Please enter the new workspace number:" --entry-text "${CURRENT}")
+
+if [ -z "$TITLE" ]
+then
+  NEW_NAME="${INDEX}:<span font_desc=\\\"SFMono Nerd Font Medium 9\\\"> ${INDEX} </span><span foreground=\\\"${COLOR}\\\">${ICON}</span>"
+else
+  NEW_NAME="${INDEX}:<span font_desc=\\\"SFMono Nerd Font Medium 9\\\"> ${INDEX} (${TITLE})  </span><span foreground=\\\"${COLOR}\\\">${ICON}</span>"
+fi
+
+i3-msg "rename workspace ${OLD_NAME} to \"${NEW_NAME}\""
